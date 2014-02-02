@@ -1,0 +1,12 @@
+{
+  "name": "BamBam",
+  "version": "0.0.1",
+  "author": "Apon Palanuwech",
+  "description": "BamBam",
+  "dependencies": {
+    "socket.io": "*",
+    "connect": "*",
+    "moment": "*",
+    "serialport": "*"
+  }
+}

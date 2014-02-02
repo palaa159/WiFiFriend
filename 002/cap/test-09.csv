@@ -1,0 +1,924 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+00:24:6C:A9:04:80, 2013-12-10 00:13:00, 2013-12-10 15:25:36, -1,  -1,     ,       ,   , -87,        0,        0,   0.  0.  0.  0,   0, , 
+D8:C7:C8:A9:EA:80, 2013-12-10 00:11:08, 2013-12-10 15:24:37, -1,  -1,     ,       ,   , -74,        0,        0,   0.  0.  0.  0,   0, , 
+E4:CE:8F:6A:E2:99, 2013-12-10 01:09:43, 2013-12-10 15:24:36,  9,  54, WPA2WPA , CCMP TKIP,PSK, -89,        8,       57,   0.  0.  0.  0,   9, DeckTunes, 
+00:23:6C:BF:7A:C7, 2013-12-10 01:54:47, 2013-12-10 15:24:09,  6,  54, WPA2WPA , CCMP TKIP,PSK, -91,      589,        3,   0.  0.  0.  0,  19, Parsons Design Labs, 
+00:18:0A:35:2A:B6, 2013-12-10 00:18:36, 2013-12-10 15:22:46,  6,  54, WPA2WPA , CCMP TKIP,PSK, -91,        6,      142,   0.  0.  0.  0,   0, , 
+D8:C7:C8:A9:EB:F0, 2013-12-10 00:17:02, 2013-12-10 15:20:18, -1,  -1,     ,       ,   , -82,        0,        0,   0.  0.  0.  0,   0, , 
+5C:96:9D:6B:29:81, 2013-12-10 00:12:50, 2013-12-10 15:16:06,  6,  54, WPA2, CCMP,PSK, -92,   123367,      936,   0.  0.  0.  0,  22, TransD's Wi-Fi Network, 
+20:C9:D0:22:18:FF, 2013-12-10 15:07:58, 2013-12-10 15:07:58, 133,  -1,     ,       ,   ,  -1,        0,        0,   0.  0.  0.  0,   0, , 
+2A:A4:3C:09:F9:8E, 2013-12-10 04:05:17, 2013-12-10 15:03:38, 133,  -1,     ,       ,   , -92,        0,        0,   0.  0.  0.  0,   0, , 
+20:C9:D0:A3:7C:52, 2013-12-10 15:00:29, 2013-12-10 15:01:28,  6,  54, WPA2, CCMP,PSK, -92,        4,        0,   0.  0.  0.  0,   3, djj, 
+D8:C7:C8:A9:EC:50, 2013-12-10 00:35:18, 2013-12-10 14:47:19, -1,  -1,     ,       ,   , -85,        0,        0,   0.  0.  0.  0,   0, , 
+C8:F9:F9:89:B2:9F, 2013-12-10 12:28:30, 2013-12-10 14:46:29, 133,  -1,     ,       ,   ,  -1,        0,        0,   0.  0.  0.  0,   0, , 
+00:0B:86:70:6E:30, 2013-12-10 00:18:42, 2013-12-10 14:28:27, -1,  -1,     ,       ,   , -91,        0,        0,   0.  0.  0.  0,   0, , 
+04:00:70:18:48:EE, 2013-12-10 14:27:29, 2013-12-10 14:27:29, -1,  -1,     ,       ,   ,  -1,        0,        0,   0.  0.  0.  0,   0, , 
+D8:C7:C8:A9:EA:D9, 2013-12-10 13:26:09, 2013-12-10 14:24:16, 133,  -1,     ,       ,   ,  -1,        0,        0,   0.  0.  0.  0,   0, , 
+74:D0:2B:3F:DC:90, 2013-12-10 05:10:39, 2013-12-10 14:23:57,  6,  54, WPA2, CCMP,PSK, -93,        2,        2,   0.  0.  0.  0,   3, R2a, 
+C8:F9:F9:28:2A:81, 2013-12-10 00:52:53, 2013-12-10 14:16:28,  6,  54, WPA2, CCMP, MGT, -90,    31721,        0,   0.  0.  0.  0,  15, AppleWiFiSecure, 
+D8:C7:C8:A9:EA:81, 2013-12-10 14:13:08, 2013-12-10 14:13:08,  6,  -1,     ,       ,   ,  -1,        0,        0,   0.  0.  0.  0,   0, , 
+20:C9:D0:23:5D:2F, 2013-12-10 13:53:15, 2013-12-10 13:53:15, -1,  -1,     ,       ,   ,  -1,        0,        0,   0.  0.  0.  0,   0, , 
+00:18:F8:C7:97:46, 2013-12-10 13:10:04, 2013-12-10 13:10:15, 133,  -1,     ,       ,   ,  -1,        0,        0,   0.  0.  0.  0,   0, , 
+D8:C7:C8:A9:EA:89, 2013-12-10 11:15:46, 2013-12-10 12:52:28, 133,  -1,     ,       ,   ,  -1,        0,        0,   0.  0.  0.  0,   0, , 
+68:ED:43:AE:C5:CF, 2013-12-10 11:49:16, 2013-12-10 11:49:17, -1,  -1,     ,       ,   ,  -1,        0,        0,   0.  0.  0.  0,   0, , 
+D8:C7:C8:A9:EA:59, 2013-12-10 04:30:31, 2013-12-10 04:37:28, 133,  -1,     ,       ,   ,  -1,        0,        0,   0.  0.  0.  0,   0, , 
+D8:C7:C8:A9:EB:78, 2013-12-10 01:59:58, 2013-12-10 01:59:58, 133,  -1,     ,       ,   ,  -1,        0,        0,   0.  0.  0.  0,   0, , 
+D8:C7:C8:A9:ED:C9, 2013-12-10 05:22:42, 2013-12-10 05:25:11, 133,  -1,     ,       ,   ,  -1,        0,        0,   0.  0.  0.  0,   0, , 
+D8:C7:C8:A9:EC:59, 2013-12-10 05:02:54, 2013-12-10 05:53:51, 133,  -1,     ,       ,   ,  -1,        0,        0,   0.  0.  0.  0,   0, , 
+20:C9:D0:23:5D:30, 2013-12-10 00:28:49, 2013-12-10 06:12:50, -1,  -1,     ,       ,   ,  -1,        0,        0,   0.  0.  0.  0,   0, , 
+C0:C1:C0:0A:8A:04, 2013-12-10 01:03:46, 2013-12-10 06:22:33,  6,  54, WPA2WPA , CCMP TKIP,PSK, -87,     2967,        0,   0.  0.  0.  0,  10, BronzeDeer, 
+D8:C7:C8:A9:EC:51, 2013-12-10 08:20:44, 2013-12-10 08:20:44, 133,  -1,     ,       ,   ,  -1,        0,        0,   0.  0.  0.  0,   0, , 
+00:24:6C:A9:04:89, 2013-12-10 10:52:02, 2013-12-10 10:56:24, 133,  -1,     ,       ,   ,  -1,        0,        0,   0.  0.  0.  0,   0, , 
+1C:BD:B9:87:87:3D, 2013-12-10 04:09:17, 2013-12-10 10:57:13,  6,  54, WPA2WPA , CCMP TKIP,PSK, -90,        6,        0,   0.  0.  0.  0,   5, HLGRP, 
+D8:C7:C8:A9:EB:70, 2013-12-10 00:59:07, 2013-12-10 14:06:40, -1,  -1,     ,       ,   , -90,        0,        0,   0.  0.  0.  0,   0, , 
+00:00:00:00:00:00, 2013-12-10 14:21:22, 2013-12-10 14:21:22, -1,  -1,     ,       ,   ,  -1,        0,        0,   0.  0.  0.  0,   0, , 
+D8:C7:C8:A9:EB:F9, 2013-12-10 05:25:51, 2013-12-10 14:51:13, 133,  -1,     ,       ,   ,  -1,        0,        0,   0.  0.  0.  0,   0, , 
+D8:C7:C8:A9:ED:A9, 2013-12-10 14:58:01, 2013-12-10 14:58:01, 133,  -1,     ,       ,   ,  -1,        0,        0,   0.  0.  0.  0,   0, , 
+5E:96:9D:6B:29:82, 2013-12-10 00:13:58, 2013-12-10 15:06:30,  6,  54, WPA2, CCMP,PSK, -93,   109991,       22,   0.  0.  0.  0,  22, TransD's Guest Network, 
+06:18:0A:35:2A:B6, 2013-12-10 00:11:14, 2013-12-10 15:07:22,  6,  54, WPA2WPA , CCMP TKIP,PSK, -91,        3,        0,   0.  0.  0.  0,   0, , 
+D8:C7:C8:A9:EE:80, 2013-12-10 00:12:55, 2013-12-10 15:25:00, -1,  -1,     ,       ,   , -85,        0,        0,   0.  0.  0.  0,   0, , 
+D8:C7:C8:A9:EB:31, 2013-12-10 15:25:33, 2013-12-10 15:25:33, 133,  -1,     ,       ,   ,  -1,        0,        0,   0.  0.  0.  0,   0, , 
+D8:C7:C8:A9:EA:D0, 2013-12-10 00:11:05, 2013-12-10 15:26:14, 133,  -1,     ,       ,   , -81,        0,        0,   0.  0.  0.  0,   0, , 
+20:C9:D0:23:5B:F9, 2013-12-10 00:11:49, 2013-12-10 15:27:27,  6,  54, WPA2WPA , CCMP TKIP,PSK, -93,     6144,     8552,   0.  0.  0.  0,   6, Def6-N, 
+40:0E:85:0E:B0:E1, 2013-12-10 13:52:26, 2013-12-10 15:27:44,  6,  54, WPA2, CCMP,PSK, -91,     5135,       48,   0.  0.  0.  0,  23, Samsung Galaxy S 4 2500, 
+00:1F:5B:87:94:F8, 2013-12-10 00:11:13, 2013-12-10 15:27:44,  6,  54, WPA2, CCMP,PSK, -90,     5649,       69,   0.  0.  0.  0,   6, backup, 
+C8:F9:F9:28:2A:80, 2013-12-10 00:18:19, 2013-12-10 15:27:43,  6,  54, WPA2OPN , CCMP,PSK, -90,    31845,     4020,   0.  0.  0.  0,   9, AppleWiFi, 
+00:20:A6:F0:AF:0A, 2013-12-10 00:09:35, 2013-12-10 15:27:44,  6,  54, WPA2WPA , CCMP TKIP,PSK, -87,   172305,    28482,   0.  0.  0.  0,   7, AdaCore, 
+02:20:A6:F0:AF:0A, 2013-12-10 00:09:35, 2013-12-10 15:27:44,  6,  54, WPA2WPA , CCMP TKIP,PSK, -87,   150990,   177872,   0.  0.  0.  0,  13, AdaCorePublic, 
+20:C9:D0:24:DF:9B, 2013-12-10 00:09:35, 2013-12-10 15:27:44,  6,  54, WPA2WPA , CCMP TKIP,PSK, -80,   344088,   930368,   0.  0.  0.  0,   6, Def6-N, 
+00:13:10:64:BB:2B, 2013-12-10 00:09:35, 2013-12-10 15:27:45,  6,  54, WPA2, CCMP TKIP,PSK, -80,   381647,    12566,   0.  0.  0.  0,   6, dd-wrt, 
+20:C9:D0:29:11:3B, 2013-12-10 00:09:35, 2013-12-10 15:27:44,  6,  54, WPA2WPA , CCMP TKIP,PSK, -71,   374861,  1043100,   0.  0.  0.  0,   6, Def6-N, 
+D8:C7:C8:A9:EB:30, 2013-12-10 00:10:52, 2013-12-10 15:27:29, -1,  -1,     ,       ,   , -70,        0,        0,   0.  0.  0.  0,   0, , 
+44:33:4C:6C:1A:64, 2013-12-10 00:09:35, 2013-12-10 15:27:44,  6,  54, WPA2, CCMP,PSK, -64,   376437,   168925, 192.168. 42.  1,  17, __D12__1nt3rn3t__, 
+D8:C7:C8:A9:ED:C0, 2013-12-10 00:09:39, 2013-12-10 15:27:25, -1,  -1,     ,       ,   , -63,        0,        0,   0.  0.  0.  0,   0, , 
+D8:C7:C8:A9:ED:A4, 2013-12-10 00:09:35, 2013-12-10 15:27:44,  6,  54, WPA2, CCMP, MGT, -46,   419110,     2809,   0.  0.  0.  0,   7, eduroam, 
+D8:C7:C8:A9:ED:A0, 2013-12-10 00:09:35, 2013-12-10 15:27:44,  6,  54, WPA2, CCMP, MGT, -48,   445186,   471446,   0.  0.  0.  0,   9, newschool, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+CC:08:E0:C7:8D:48, 2013-12-10 15:06:02, 2013-12-10 15:26:35, -66,       19, (not associated) ,
+C4:17:FE:07:82:F4, 2013-12-10 00:12:52, 2013-12-10 15:26:39, -70,     6056, 20:C9:D0:24:DF:9B, Def6-N
+4C:8D:79:D3:67:92, 2013-12-10 10:55:32, 2013-12-10 15:27:42, -74,      170, D8:C7:C8:A9:ED:A1, newschoolnet 
+20:C9:D0:48:7F:BB, 2013-12-10 12:35:52, 2013-12-10 15:26:29, -72,      105, (not associated) , Apple Store,ModeGuestNetwork,Harry's Network,Ad-hoc_Survival,DDGuestWifi,newschool,martelfab's Network,QM,VictoriasSecret,belkin.548
+38:AA:3C:B9:F8:3B, 2013-12-10 11:47:14, 2013-12-10 15:26:27, -78,     6956, D8:C7:C8:A9:ED:A1, newschoolnet 
+04:DB:56:26:24:59, 2013-12-10 13:59:06, 2013-12-10 15:26:28, -86,     2049, 20:C9:D0:24:DF:9B, Def6-N
+30:F7:C5:6C:E3:28, 2013-12-10 09:44:11, 2013-12-10 15:26:18, -92,     3603, 20:C9:D0:24:DF:9B, Def6-N
+20:16:D8:4E:4D:EF, 2013-12-10 09:20:00, 2013-12-10 15:26:05, -86,      244, (not associated) ,
+28:6A:BA:7D:E0:FC, 2013-12-10 14:15:42, 2013-12-10 15:26:05, -86,       74, (not associated) , newschool-guest
+EC:35:86:6D:C4:CE, 2013-12-10 00:43:01, 2013-12-10 15:25:59, -80,     1476, D8:C7:C8:A9:ED:A1, newschoolnet 
+E0:F8:47:31:03:4C, 2013-12-10 15:12:27, 2013-12-10 15:25:49, -72,       29, D8:C7:C8:A9:ED:A1, newschoolnet 
+00:26:C6:41:BE:F8, 2013-12-10 08:50:00, 2013-12-10 15:25:38, -74,      438, (not associated) ,
+BC:CF:CC:48:AF:9F, 2013-12-10 09:04:11, 2013-12-10 15:25:26, -92,        9, (not associated) , Def6-N
+B8:E8:56:42:24:66, 2013-12-10 11:50:35, 2013-12-10 15:25:18, -78,      120, (not associated) , newschoolnet.,Voices UnBroken,newschoolnet ,jpda5ghz,Kittynet 5Ghz
+BC:52:B7:41:75:4B, 2013-12-10 03:54:47, 2013-12-10 15:25:18, -82,     2937, D8:C7:C8:A9:ED:A0, newschool
+20:C9:D0:85:50:E3, 2013-12-10 12:03:40, 2013-12-10 15:24:59, -70,      120, D8:C7:C8:A9:ED:A1, .FREEWiFiGOWEX,Eyebeam,metmuseumpublic,newschoolnet ,Aroma Espresso Bar,TCWiFi,GTSWIFI,THE HIGH LINE HOTEL GUEST,belkin.ffa,Holiday Inn University
+14:7D:C5:7F:65:C1, 2013-12-10 08:49:30, 2013-12-10 15:24:48, -84,      257, (not associated) ,
+00:26:C6:41:8B:40, 2013-12-10 00:10:45, 2013-12-10 15:24:47, -92,     4942, 20:C9:D0:29:11:3B, Def6-N
+90:21:55:C3:1E:BB, 2013-12-10 08:20:08, 2013-12-10 15:24:38, -82,    19806, D8:C7:C8:A9:ED:A1, newschoolnet 
+90:18:7C:0C:F6:E4, 2013-12-10 08:34:04, 2013-12-10 15:24:39, -86,     1712, 20:C9:D0:29:11:3B, Def6-N
+3C:E0:72:95:42:3E, 2013-12-10 15:13:32, 2013-12-10 15:24:38, -90,       32, (not associated) , Martial_Arts_Up
+98:B8:E3:AD:85:D1, 2013-12-10 11:05:48, 2013-12-10 15:27:42, -88,       74, (not associated) , newschool
+E0:F8:47:F0:00:51, 2013-12-10 14:26:28, 2013-12-10 15:24:16, -82,       58, D8:C7:C8:A9:ED:A0, newschool
+34:C0:59:79:39:A2, 2013-12-10 12:17:11, 2013-12-10 15:24:07, -76,       70, (not associated) ,
+00:26:08:EA:64:CE, 2013-12-10 13:53:53, 2013-12-10 15:24:06, -90,       28, D8:C7:C8:A9:ED:A4, eduroam
+E0:C9:7A:32:2B:43, 2013-12-10 13:07:30, 2013-12-10 15:23:28, -90,        2, (not associated) ,
+40:0E:85:2B:5F:8A, 2013-12-10 12:51:32, 2013-12-10 15:23:17, -78,      106, D8:C7:C8:A9:ED:A9, newschoolnet 
+20:C9:D0:48:8A:8D, 2013-12-10 00:39:23, 2013-12-10 15:23:19, -90,      209, D8:C7:C8:A9:ED:A1, TheBellagio,Wi-Fi Guys,SciPlay,Harley,WMN_AP,Fernandez,ClydeWaves,Employee,AndroidNet,Connecticut Muffin
+B8:76:3F:83:43:67, 2013-12-10 09:13:05, 2013-12-10 15:23:05, -92,       24, (not associated) ,
+6C:71:D9:59:AD:21, 2013-12-10 13:52:14, 2013-12-10 15:22:46, -96,      137, 00:18:0A:35:2A:B6,
+1C:E6:2B:19:28:DF, 2013-12-10 00:11:04, 2013-12-10 15:22:39, -78,      160, (not associated) ,
+B8:17:C2:11:6D:6C, 2013-12-10 00:13:22, 2013-12-10 15:22:28, -92,     2749, D8:C7:C8:A9:ED:A0, newschool,newschoolnet 
+6C:C2:6B:57:9F:E1, 2013-12-10 10:55:24, 2013-12-10 15:22:19, -90,    14092, D8:C7:C8:A9:ED:A0, newschool,newschoolnet ,__D12__1nt3rn3t__
+0C:3E:9F:2C:0F:DD, 2013-12-10 11:31:35, 2013-12-10 15:22:09, -92,      736, D8:C7:C8:A9:ED:A1, newschoolnet 
+E0:F8:47:33:8A:10, 2013-12-10 00:31:32, 2013-12-10 15:21:47, -70,       75, D8:C7:C8:A9:ED:A0, newschool
+54:26:96:DA:62:13, 2013-12-10 09:55:47, 2013-12-10 15:21:39, -82,       49, (not associated) , calihorn,CSINY,COURTSTREETGROCERS,GORILLA WiFi,BPLUNWIRED,newschoolnet.,newschoolnet ,BAKED,TransD's Wi-Fi Network
+BC:3B:AF:21:46:0F, 2013-12-10 10:10:11, 2013-12-10 15:21:38, -94,     1153, 20:C9:D0:24:DF:9B, Def6-N
+E0:F8:47:15:34:98, 2013-12-10 14:32:12, 2013-12-10 15:21:16, -82,       87, D8:C7:C8:A9:ED:A1, newschoolnet ,SimaoWireless,fasanorj,jonny mac's shiznit,THE WAREHOUSE CAFE,TWCWiFi,newschoolnet,DEBGUEST,TekAir,11FX08176812
+20:C9:D0:42:AC:29, 2013-12-10 15:21:18, 2013-12-10 15:21:19, -90,       31, (not associated) , Saturn,Mars Rover,#SFO FREE WIFI,DDW36111B,CSINY,Pret29,Apple Store,nyu,newschool-community,newschoolnet 
+20:02:AF:56:31:D2, 2013-12-10 09:22:27, 2013-12-10 15:20:59, -92,       25, (not associated) ,
+C8:E0:EB:14:E2:21, 2013-12-10 10:39:50, 2013-12-10 15:20:55, -94,      138, D8:C7:C8:A9:ED:A1, HP-Print-0d-LaserJet 200,newschool-community,newschoolnet.,NYU-ROAM3,newschoolnet ,newschool-housing,TWCWiFi,Strip House WiFi,attwifi,CableWiFi
+64:A3:CB:69:E5:DA, 2013-12-10 12:13:07, 2013-12-10 15:20:46, -84,       82, (not associated) ,
+40:B3:95:D7:10:84, 2013-12-10 12:01:03, 2013-12-10 15:20:38, -84,       98, (not associated) ,
+5C:59:48:78:72:EA, 2013-12-10 15:10:27, 2013-12-10 15:20:38, -94,       33, 00:24:6C:A9:00:71, FIRSTCOMM_INTERNET,VAIO Ntwk,WiFiRSU_62,Peter Pan Free WiFi,NETGEAR,maximusdarrel-guest,Cosi,JIVAMUKTEA CAFE,Boingo Hotspot,rocketrouter2
+90:27:E4:F2:B0:E5, 2013-12-10 14:57:26, 2013-12-10 15:20:29, -70,       47, (not associated) , Belkin.5322,SCAD_Secure_Wireless,CamelliaQin-guest,SVA WLAN (a/n 5GHz),SVA WLAN (g/n 2.4GHz),HKUSPACE,LevelOne,CITY FREE WIFI,newschoolnet ,SCAD Wireless
+28:CF:DA:DA:23:9E, 2013-12-10 00:12:21, 2013-12-10 15:19:58, -74,     3964, D8:C7:C8:A9:ED:A1, CafeYesterday,newschoolnet ,GED,Philz Coffee,US8YT,Direct-Cafe,Direct-Guest,attwifi,LsCafe,WholeFoodsMarket
+68:A8:6D:BC:54:FC, 2013-12-10 15:07:18, 2013-12-10 15:19:39, -82,       36, (not associated) ,
+7C:D1:C3:E4:C7:6B, 2013-12-10 09:35:49, 2013-12-10 15:19:18, -70,      178, D8:C7:C8:A9:ED:A1, D2,canyonviewmotel,AMullins,newschoolnet ,NETGEAR,Apple Store,Columbia University,BrooklynCommune,DEN Free WiFi by Boingo,Greyhound
+B8:8D:12:3A:29:E0, 2013-12-10 12:21:17, 2013-12-10 15:18:39, -70,       26, (not associated) , newschoolnet 
+8C:A9:82:A7:29:E6, 2013-12-10 00:11:11, 2013-12-10 15:18:29, -92,      868, 20:C9:D0:29:11:3B, Def6-N
+68:A8:6D:3B:28:FE, 2013-12-10 15:15:33, 2013-12-10 15:17:47, -82,       19, D8:C7:C8:A9:ED:A1, nyu,newschool-guest-on3400,newschoolnet 
+9C:B7:0D:7E:7D:80, 2013-12-10 14:36:03, 2013-12-10 15:17:47, -92,        8, (not associated) , cloudbreak
+90:72:40:A7:97:E8, 2013-12-10 00:10:51, 2013-12-10 15:17:28, -76,      963, D8:C7:C8:A9:ED:A1, newschoolnet 
+E0:F8:47:17:00:7C, 2013-12-10 09:24:51, 2013-12-10 15:17:25, -88,       11, 2A:A4:3C:09:F9:8E, Canvas 2.1,GPHWiFi
+28:CF:E9:1E:55:87, 2013-12-10 12:47:37, 2013-12-10 15:17:18, -76,       56, D8:C7:C8:A9:ED:A1, Kopi Kopi WiFi,WKZBN,newschoolnet ,Teapot,NETGEAR51,2WIRE663,APJNOW 2,Colador1000,Hotel Lincoln,Statehouse
+44:2A:60:F6:6D:94, 2013-12-10 09:55:47, 2013-12-10 15:17:16, -84,       58, (not associated) , newschool
+B8:76:3F:83:3F:65, 2013-12-10 03:13:19, 2013-12-10 15:17:16, -94,       28, (not associated) ,
+F0:27:65:92:00:C7, 2013-12-10 09:58:46, 2013-12-10 15:17:09, -88,       12, 02:20:A6:F0:AF:0A,
+A8:16:B2:72:6F:67, 2013-12-10 00:11:31, 2013-12-10 15:16:58, -76,    12652, 20:C9:D0:24:DF:9B, z b,mp3,Def6-N
+50:B7:C3:F5:EA:C9, 2013-12-10 08:49:56, 2013-12-10 15:16:46, -92,       76, (not associated) , newschoolnet 
+5C:96:9D:72:77:C1, 2013-12-10 14:24:34, 2013-12-10 15:16:29, -90,       28, (not associated) , Lane,LaneWiFi,Lane's Network,Apple Network ea15c9,newschoolnet ,N302-Tech,tannenbaum,Home,Bazinga-guest,Wi-Fi Network
+E4:CE:8F:87:3E:83, 2013-12-10 15:16:06, 2013-12-10 15:16:06, -88,        1, 5C:96:9D:6B:29:81,
+EC:35:86:AE:1C:12, 2013-12-10 09:18:40, 2013-12-10 15:16:07, -92,       49, (not associated) , napguests
+0C:74:C2:71:00:79, 2013-12-10 12:19:14, 2013-12-10 15:15:59, -82,      111, (not associated) , EVERRICH MEETS YOU IN THE AIR,forgood,Boingo Hots, 2013-12-10 15:01:07, 2013-12-10 15:15:54, -90,       44, (not associated) ,
+4C:8D:79:EE:51:D2, 2013-12-10 12:12:49, 2013-12-10 15:14:50, -46,      304, D8:C7:C8:A9:ED:A1, BPD_Network,Blis NY Wi-Fi,Labageldelight,newschoolnet ,IACHQ,metrowifi,Belkin_N_Wireless_530eac,9th Floor Cafe,Penguin375,CSINY
+CC:08:E0:49:04:B5, 2013-12-10 12:29:34, 2013-12-10 15:14:51, -80,        6, (not associated) ,
+E8:8D:28:7D:A1:B3, 2013-12-10 11:34:19, 2013-12-10 15:14:41, -86,       93, (not associated) ,
+60:C5:47:0C:C8:CE, 2013-12-10 09:43:01, 2013-12-10 15:14:33, -90,        5, 2A:A4:3C:09:F9:8E, Canvas 2.0,Air-
+00:26:BB:16:28:D5, 2013-12-10 00:36:19, 2013-12-10 15:13:52, -84,    13562, 44:33:4C:6C:1A:64, 6th Ave Guest,5VQR5,KishiSai,newschoolnet,attwifi,REGUSNETWIFI,Apple Store,TCWiFi,__D12__1nt3rn3t__,nyuguest
+E4:25:E7:77:83:40, 2013-12-10 15:13:41, 2013-12-10 15:13:41,  -1,        1, D8:C7:C8:A9:ED:A0,
+60:C5:47:3D:FB:DA, 2013-12-10 00:17:19, 2013-12-10 15:13:43, -76,      621, (not associated) ,
+78:A3:E4:9F:C0:A9, 2013-12-10 14:07:35, 2013-12-10 15:13:30, -90,     1061, D8:C7:C8:A9:ED:A1, newschoolnet 
+68:A3:C4:37:21:7D, 2013-12-10 14:30:39, 2013-12-10 15:13:01, -86,        3, (not associated) , Def6-N
+C0:CB:38:12:F5:16, 2013-12-10 14:30:05, 2013-12-10 15:12:44, -78,        6, (not associated) , Def6-N
+20:C9:D0:4C:C1:EF, 2013-12-10 13:10:02, 2013-12-10 15:12:40, -82,       24, (not associated) ,
+08:11:96:AE:2C:D0, 2013-12-10 09:04:53, 2013-12-10 15:12:44, -92,       84, (not associated) , ARKOFFICE
+0C:30:21:18:A6:73, 2013-12-10 11:56:23, 2013-12-10 15:12:23, -127,     5629, D8:C7:C8:A9:ED:A0, newschool
+34:C0:59:CD:73:A5, 2013-12-10 14:06:41, 2013-12-10 15:12:14, -52,      182, (not associated) ,
+B8:E8:56:42:4F:C0, 2013-12-10 07:17:38, 2013-12-10 15:12:12, -72,       75, D8:C7:C8:A9:ED:A1, NETGEAR40,urban_rustic,newschoolnet 
+20:C9:D0:7A:76:5F, 2013-12-10 12:42:17, 2013-12-10 15:12:14, -86,       51, (not associated) , v4der,twpublic,Toronto Pearson Wi-Fi,The Bean,Starbucks WiFi,Mr_Porters_Lounge,newschool,TransD's Wi-Fi Network,nyuguest,GoodburgerGuest
+00:23:6C:90:ED:BE, 2013-12-10 12:25:02, 2013-12-10 15:12:11, -90,       12, (not associated) , Abraham Linksys,SkyNet,Puma9,VictoriasSecret,SSUWLAN,kskudla,OAKFREEWIFI,RazzleDazzle,Trainweb.com
+7C:D1:C3:80:59:C4, 2013-12-10 13:34:54, 2013-12-10 15:11:53, -68,       22, (not associated) , newschoolnet ,LocandaWifi1,LocandaWifi4,LocandaWifi3,Trinity Capital Hotel,TCDguest,tic1,BAR DE PROFESORES,ceadig,Alexander Fleming
+78:CA:39:B3:B7:A7, 2013-12-10 14:13:58, 2013-12-10 15:11:14, -76,      196, D8:C7:C8:A9:ED:A1, DruryHotels,newschoolnet ,MizzouWireless,Elvis L,Linksys,FastCheetah-guest,Hello Kitty,2WIRE105,MEGABUS - DD0012,linksys
+10:9A:DD:B5:28:5D, 2013-12-10 00:11:12, 2013-12-10 15:10:32, -82,    26905, D8:C7:C8:A9:ED:A0, newschoolnet ,newschoolnet.
+78:A3:E4:45:A2:52, 2013-12-10 00:15:07, 2013-12-10 15:10:30, -86,   128494, D8:C7:C8:A9:ED:A0, newschool
+E0:C9:7A:83:72:D8, 2013-12-10 09:48:51, 2013-12-10 15:10:30, -86,      543, 00:24:6C:A9:00:71, newschoolnet 
+E0:F8:47:36:6F:4A, 2013-12-10 11:13:05, 2013-12-10 15:09:44, -76,      233, (not associated) , newschoolnet ,newschool-guest
+28:CF:E9:16:DB:3D, 2013-12-10 12:38:00, 2013-12-10 15:09:10, -76,      164, D8:C7:C8:A9:ED:A1, Shannon's Wi-Fi Network,IDSGLANY,DG860A02,TG862G72,newschoolnet ,LW3WP,220 Bellerive,BreadsFreeWifi,SNI-Guest,USP Park WiFi
+B8:17:C2:2E:EC:44, 2013-12-10 07:52:38, 2013-12-10 15:08:53, -94,      595, (not associated) ,
+5C:96:9D:A8:F1:51, 2013-12-10 10:21:22, 2013-12-10 15:07:31, -92,      273, D8:C7:C8:A9:ED:A1, STONE 555,newschoolnet 
+B8:E8:56:30:CE:9A, 2013-12-10 09:03:00, 2013-12-10 15:07:23,  -1,      486, 02:20:A6:F0:AF:0A,
+0C:30:21:46:57:EF, 2013-12-10 10:18:42, 2013-12-10 15:07:13, -84,      269, D8:C7:C8:A9:ED:A1, newschoolnet 
+F0:CB:A1:1F:39:68, 2013-12-10 11:03:32, 2013-12-10 15:06:23, -84,     4797, D8:C7:C8:A9:ED:A0, newschool
+A4:67:06:73:BC:D1, 2013-12-10 11:38:34, 2013-12-10 15:05:40, -92,      181, D8:C7:C8:A9:ED:A1, newschoolnet ,VictoriasSecret
+00:26:BB:0C:46:86, 2013-12-10 15:05:20, 2013-12-10 15:05:20, -68,       12, (not associated) , ASUS,glitterGOLD,Jamin da web,christanord,smcwifi-open,smcwifi-wpa,ATT064,alyssa dolman's Network,NETGEAR,WEBbeams-Bourbon Coffee
+4C:0F:6E:F3:30:1B, 2013-12-10 10:00:52, 2013-12-10 15:04:32, -84,       20, (not associated) , newschoolnet 
+BC:F5:AC:F4:31:36, 2013-12-10 15:02:41, 2013-12-10 15:04:33, -92,        7, (not associated) , SouthwestWiFi,belkin.f72,newschoolnet 
+C8:F7:33:CA:9D:4C, 2013-12-10 08:52:51, 2013-12-10 15:04:12, -94,       94, (not associated) , Def6-N
+90:72:40:EC:8C:C7, 2013-12-10 13:33:54, 2013-12-10 15:03:31, -88,       29, D8:C7:C8:A9:ED:A0, newschool
+E8:99:C4:94:96:A4, 2013-12-10 00:12:15, 2013-12-10 15:03:10, -92,    10856, D8:C7:C8:A9:ED:A3, newschoolnet ,newschool-alumni
+34:C0:59:DA:96:58, 2013-12-10 13:48:56, 2013-12-10 15:03:02, -90,       64, (not associated) ,
+5C:0A:5B:17:5F:30, 2013-12-10 03:54:34, 2013-12-10 15:02:52, -90,       13, (not associated) , SandysNet2
+B8:76:3F:83:53:ED, 2013-12-10 00:16:47, 2013-12-10 15:02:24, -90,      250, (not associated) ,
+60:C5:47:91:BD:5E, 2013-12-10 03:21:22, 2013-12-10 15:02:11, -68,    85442, 44:33:4C:6C:1A:64, Eye Beam,eyebeam xxx ;),__D12__1nt3rn3t__,Blis NY Wi-Fi,Pret29,Boingo Hotspot,ShinyFlamingo-guest,NYU-ROAM3,nyu,COSI
+38:AA:3C:B3:BC:E8, 2013-12-10 13:59:44, 2013-12-10 15:02:14, -88,        6, (not associated) ,
+4C:8D:79:EE:DB:AC, 2013-12-10 15:00:36, 2013-12-10 15:01:41, -88,        9, (not associated) , 10thstwireless,Cibrano
+70:56:81:A9:09:F9, 2013-12-10 12:01:28, 2013-12-10 15:01:20, -80,       31, D8:C7:C8:A9:ED:A1, CN-GUEST-2,attwifi,AmtrakConnectAcela,Revere Hotel,EF-Guest,JOHN5512,NYPL,snicebrooklyn,pret18,FOUR32C [A]
+0C:74:C2:D3:F3:70, 2013-12-10 15:00:48, 2013-12-10 15:00:53, -94,       18, D8:C7:C8:A9:ED:A1, newschoolnet 
+B8:E8:56:B3:44:47, 2013-12-10 13:48:35, 2013-12-10 15:00:33, -76,       83, (not associated) ,
+B8:F6:B1:19:8B:65, 2013-12-10 13:20:16, 2013-12-10 15:00:22, -64,       67, D8:C7:C8:A9:ED:A1, newschool-housing,belkin.df2,Hsin an Chen's MacBook Pro,Sony-Music-WIFI,FreeWiFi-NARITA,NARKVICHETR,NOTEBOOK_SERVICE_CENTER,Wayport_Access,newschoolnet.,newschoolnet 
+14:10:9F:CE:8A:83, 2013-12-10 11:28:14, 2013-12-10 14:59:03, -70,      258, D8:C7:C8:A9:ED:A1, nyuguest,NYCRESISTOR_5,EffisCafe,Apple Store,DVW320160,Biggie's,bizziebeaverz,Chorny is a Steer among Bu-guest,6avespa,Belkin.5073_5GHz
+04:0C:CE:CF:A1:14, 2013-12-10 10:42:07, 2013-12-10 14:56:43, -68,       14, (not associated) , newschoolnet 
+84:85:06:93:E7:45, 2013-12-10 11:37:26, 2013-12-10 14:56:33, -80,      138, (not associated) ,
+B0:65:BD:CF:DE:2A, 2013-12-10 11:26:55, 2013-12-10 14:56:24, -90,       25, (not associated) , newschool
+AC:22:0B:4A:3A:3B, 2013-12-10 14:56:10, 2013-12-10 14:56:10, -90,        1, (not associated) , newschoolnet 
+D8:A2:5E:96:3E:A3, 2013-12-10 14:01:25, 2013-12-10 14:56:01, -64,       29, (not associated) , Washington Square Hotel,WiFiRSU_0378a,newschoolnet ,VVS,NETGEAR82,NETGEAR90,Chacho,attwifi,Boingo Hotspot,Avtech ASP
+88:CB:87:88:19:07, 2013-12-10 12:43:13, 2013-12-10 14:55:42, -86,       52, (not associated) , 052361506y,newschool
+5C:96:9D:73:65:69, 2013-12-10 00:39:16, 2013-12-10 14:55:33, -70,      797, (not associated) , newschoolnet ,TekAir,City of Minneapolis Public WiFi,Hyatt Lobby,yesyesno,WLAN-4A0E09,&#128169;,PDT Co.,FÃ.CK IN YÅ.Ã.R DÅ.RM,VIDEOTRON8012
+14:10:9F:D4:68:83, 2013-12-10 12:17:04, 2013-12-10 14:55:33, -78,      151, (not associated) , HUSHNET5,IndieCade,Friends of Barbarian,Halifax_Airport,linksys,MainD5,grandma_bottom,Chez NagWas,BLUCADET-5G,NETGEAR
+B8:E8:56:32:A0:EE, 2013-12-10 13:12:22, 2013-12-10 14:55:21, -66,       15, (not associated) , Belkin.4731,newschoolnet ,MFA IxD Guest (a/n),newschoolnet.,nyuguest
+E0:F8:47:0E:73:F6, 2013-12-10 12:25:45, 2013-12-10 14:55:21, -80,      517, D8:C7:C8:A9:ED:A1, DVW3201BF0,NYU-ROAM3,rga@350,newschoolnet ,VictoriasSecret
+C0:9F:42:E1:E1:0F, 2013-12-10 14:54:54, 2013-12-10 14:54:54, -94,        1, (not associated) ,
+60:C5:47:C2:01:F7, 2013-12-10 14:38:48, 2013-12-10 14:53:54, -90,        8, (not associated) ,
+44:4C:0C:AC:E5:3E, 2013-12-10 09:16:17, 2013-12-10 14:51:12, -92,       18, (not associated) , bulldog
+D8:9E:3F:0B:BD:38, 2013-12-10 12:17:03, 2013-12-10 14:50:51, -88,      207, (not associated) ,
+28:CF:E9:20:E2:19, 2013-12-10 12:23:17, 2013-12-10 14:50:32, -72,      780, D8:C7:C8:A9:ED:A1, Club45,Li Wen Chang,newschoolnet,newschoolnet ,shirley188,liwenchang,LEWENCHANG,HOUSTON,4545 Club,HP-Print-23-LaserJet 100
+10:9A:DD:9F:24:4C, 2013-12-10 01:23:09, 2013-12-10 14:48:10, -56,       56, (not associated) , hyper
+84:3A:4B:88:61:50, 2013-12-10 08:55:16, 2013-12-10 14:47:53, -88,    11092, 02:20:A6:F0:AF:0A, AdaCorePublic
+E4:CE:8F:1E:56:76, 2013-12-10 12:34:28, 2013-12-10 14:47:34, -62,        9, (not associated) , Lenon2316,gbl0804,AceHotelWireless,hippity-hop,Evil Dr. Pork Chop,WholyGrain,Jaho Coffee & Tea,newschoolnet 
+5C:96:9D:97:61:1D, 2013-12-10 11:43:44, 2013-12-10 14:47:11, -76,       70, (not associated) , newschoolnet,Abraham Linksys,VAL51,TheDriggs,Calella Hot_spot,WLAN_1F39,newschoolnet.,Uri,HTC One_ B462,newschoolnet 
+28:CF:DA:E8:5C:0C, 2013-12-10 10:17:53, 2013-12-10 14:47:02, -84,       18, (not associated) , ditnet-n,Melody's Wi-Fi Network,c.g.mendelson-guest,SKYHARBOR PUBLIC WLAN,HotelChandler,JNFHL,Bolt Bus,Pure House,Lakers Rule!,newschoolnet 
+A0:0B:BA:E7:F1:6E, 2013-12-10 00:10:53, 2013-12-10 14:47:01, -84,    12455, (not associated) , Wrigley H Downstairs,Boingo Hotspot,FreeWiFibyBoingo,newschoolnet,AOL Free Wi-Fi,Syukun,nyuguest,JFK-Terminal-wifi,SPIA-guest(Airport Free WIFI),belkin.3ea
+5C:95:AE:16:E9:59, 2013-12-10 12:05:45, 2013-12-10 14:46:31, -90,      210, (not associated) ,
+90:27:E4:F4:03:14, 2013-12-10 12:11:16, 2013-12-10 14:45:41, -82,        8, (not associated) , newschoolnet 
+28:18:78:CD:A6:85, 2013-12-10 08:55:32, 2013-12-10 14:45:30, -96,       19, 00:18:0A:35:2A:B6,
+B0:65:BD:6D:31:15, 2013-12-10 13:08:59, 2013-12-10 14:45:02, -90,        2, (not associated) ,
+D8:A2:5E:8B:0C:56, 2013-12-10 14:22:20, 2013-12-10 14:45:02, -94,       22, (not associated) , hamster huey kablooey,MARTZWIFI,Red House,newschoolnet 
+00:1F:3B:31:FA:5F, 2013-12-10 13:57:00, 2013-12-10 14:44:50, -84,      330, D8:C7:C8:A9:ED:A1, newschoolnet 
+60:03:08:8F:75:F6, 2013-12-10 11:59:57, 2013-12-10 14:41:41, -76,        7, (not associated) , nadine,newschoolnet 
+10:40:F3:94:B9:CA, 2013-12-10 10:24:00, 2013-12-10 14:41:01, -76,       18, (not associated) , roi,CBAudio,RAMBO,Def6-N,Babystacks_5GHz,KDZV2
+18:E2:C2:36:E4:5F, 2013-12-10 14:40:32, 2013-12-10 14:40:51, -92,        4, (not associated) ,
+A0:88:B4:3F:79:14, 2013-12-10 09:52:06, 2013-12-10 14:40:30, -92,      117, 02:20:A6:F0:AF:0A,
+98:FE:94:8E:35:46, 2013-12-10 12:56:22, 2013-12-10 14:40:34, -92,        6, (not associated) ,
+F4:F1:5A:AD:2E:75, 2013-12-10 14:00:17, 2013-12-10 14:39:22, -86,       26, D8:C7:C8:A9:ED:A0, Columbia University,CBS-Guest,newschool,Motorola,GA-Guest,test,LV Virtual Journey,Awesomeness,www.aerofotea.com
+34:C8:03:AD:E9:E4, 2013-12-10 14:37:40, 2013-12-10 14:37:40, -88,        1, (not associated) ,
+C8:E0:EB:14:76:A5, 2013-12-10 14:24:00, 2013-12-10 14:37:24, -48,       58, (not associated) , Chromecast7762,newschoolnet.,MIA-WiFi,attwifi,newschoolnet ,dlink,PIER57-Sales,Eyebeam,184Kent_Amenity,Chromecast2057
+F0:D1:A9:96:89:B7, 2013-12-10 09:56:33, 2013-12-10 14:37:01, -88,      150, (not associated) ,
+64:20:0C:59:67:90, 2013-12-10 14:36:01, 2013-12-10 14:36:01, -90,        1, (not associated) ,
+88:1F:A1:01:86:06, 2013-12-10 10:58:25, 2013-12-10 14:35:42, -74,       27, (not associated) , Eastern - 70,TWCWiFi,Go Buses - 9192,SepiaCheetah,GreyhoundWiFi_6554,Connecticut Muffin,red light special,newschoolnet ,MIT,Tryst
+CC:78:5F:5F:68:5A, 2013-12-10 12:33:00, 2013-12-10 14:35:40, -127,      218, D8:C7:C8:A9:ED:A0, newschool
+5C:0A:5B:AD:6D:E9, 2013-12-10 06:04:12, 2013-12-10 14:34:43, -82,    13230, 20:C9:D0:24:DF:9B, Def6-N,linksys
+DC:2B:61:43:D3:04, 2013-12-10 12:10:42, 2013-12-10 14:34:23, -90,       89, (not associated) ,
+00:88:65:52:44:A5, 2013-12-10 12:05:33, 2013-12-10 14:33:41, -94,       58, (not associated) ,
+F0:4F:7C:DF:94:02, 2013-12-10 13:08:51, 2013-12-10 14:33:31, -94,       55, (not associated) , attwifi,sud-wireless,CityOfGreenvillePublicWiFi,ResidenceInn_GUEST,buddaboy92,QH6W3,NoJoe-WiFi,Belkin.3343,ibahn,newschoolnet 
+1A:2A:7B:BB:84:49, 2013-12-10 14:28:18, 2013-12-10 14:33:23, -80,      165, (not associated) , Nintendo_3DS_continuous_scan_000
+00:1B:63:C2:F4:94, 2013-12-10 08:48:55, 2013-12-10 14:33:00, -76,        6, (not associated) , Def6-N
+9C:20:7B:44:2D:1B, 2013-12-10 12:07:58, 2013-12-10 14:33:04, -92,      561, D8:C7:C8:A9:ED:A1, newschoolnet 
+38:AA:3C:2F:04:EE, 2013-12-10 14:31:03, 2013-12-10 14:31:03, -84,        1, (not associated) ,
+70:56:81:92:03:5D, 2013-12-10 12:22:34, 2013-12-10 14:30:30, -96,       13, (not associated) , ECC Rocky Mount WiFi-scanning,maya,Suddenlink - Wilson Acres 32,Suddenlink - Wilson Acres 43A,Suddenlink - Wilson Acres 200,Suddenlink -Wilson Acres 77,Suddenlink - Wilson Acres 33,Suddenlink - Wilson Acres 202
+80:1F:02:BB:DF:D3, 2013-12-10 14:00:47, 2013-12-10 14:30:24, -78,     3453, D8:C7:C8:A9:ED:A1,
+E0:F8:47:26:7F:74, 2013-12-10 14:29:31, 2013-12-10 14:29:31, -78,        1, (not associated) , Def6-N
+10:BF:48:F1:63:E7, 2013-12-10 08:59:19, 2013-12-10 14:27:42, -92,       21, 20:C9:D0:24:DF:9B, gogoinflight,Skype WiFi,John Candy,bay2,Blis NY Wi-Fi,Burnside,Wireless,LoudWhale-guest,ENSNYC-EXT,NETGEAR92
+20:C9:D0:7E:03:71, 2013-12-10 12:13:04, 2013-12-10 14:27:03, -90,      146, D8:C7:C8:A9:ED:A1, BronzeDeer-guest,WEBbeams-Argo Tea,newschoolnet ,Klan,Baresso Coffee Wi-Fi,harbo-net,WLAN Zone - The Cloud,Emmerys Kunder,snice,BCL 1G Airport
+84:38:35:53:14:C0, 2013-12-10 14:27:02, 2013-12-10 14:27:02, -96,        1, 5C:96:9D:6B:29:81,
+88:CB:87:A5:F3:41, 2013-12-10 14:21:54, 2013-12-10 14:26:24, -76,        8, (not associated) , stella
+6E:33:6B:85:BD:92, 2013-12-10 11:31:59, 2013-12-10 14:26:01, -90,       34, 00:25:00:FF:94:73,
+1C:B0:94:A8:E0:D4, 2013-12-10 14:25:12, 2013-12-10 14:25:12, -74,        3, (not associated) ,
+04:DB:56:12:3C:AE, 2013-12-10 14:21:57, 2013-12-10 14:25:10, -74,        3, (not associated) , newschool
+B0:9F:BA:75:A3:BF, 2013-12-10 14:25:00, 2013-12-10 14:25:00, -92,        1, (not associated) , newschool
+B8:17:C2:40:B1:83, 2013-12-10 14:24:22, 2013-12-10 14:24:22, -94,        1, (not associated) ,
+40:0E:85:21:6E:FF, 2013-12-10 00:16:23, 2013-12-10 14:24:02, -94,       46, 00:11:50:5B:4C:85,
+10:D5:42:EA:6F:D5, 2013-12-10 09:25:45, 2013-12-10 14:22:03, -96,       25, (not associated) ,
+C0:63:94:2F:7F:93, 2013-12-10 09:49:29, 2013-12-10 14:21:43, -94,      321, D8:C7:C8:A9:ED:A1, newschoolnet 
+A0:ED:CD:BF:5A:84, 2013-12-10 10:41:33, 2013-12-10 14:21:34, -90,      110, 20:C9:D0:24:DF:9B,
+EC:35:86:71:D8:EF, 2013-12-10 14:20:32, 2013-12-10 14:20:32, -84,        1, (not associated) , newschool
+D0:22:BE:A8:06:34, 2013-12-10 01:07:46, 2013-12-10 14:20:12, -94,       33, 00:11:50:5B:4C:85,
+54:26:96:37:F5:D2, 2013-12-10 14:05:56, 2013-12-10 14:20:03, -88,      298, 20:C9:D0:29:11:3B, Def6-N
+00:26:08:E9:FE:B6, 2013-12-10 00:09:35, 2013-12-10 14:19:42, -82,     1560, D8:C7:C8:A9:ED:A1, newschoolnet 
+68:A8:6D:A3:7F:5E, 2013-12-10 10:52:04, 2013-12-10 14:17:32, -80,     9369, D8:C7:C8:A9:ED:A0, newschool
+E4:CE:8F:1C:2F:D0, 2013-12-10 05:18:20, 2013-12-10 14:16:13, -92,       10, 2A:A4:3C:09:F9:8E, Canvas 2.1,55555,belkin.c1c,ObiWan Kenobi,optimumwifi,Code and Theory Guest
+60:33:4B:21:4A:7F, 2013-12-10 00:47:14, 2013-12-10 14:15:30, -86,      113, (not associated) , Apple Demo,AAA Haruhi,WiFiRSU_9b746,Nicholas Leonardy's Network,newschoolnet,Pharaoh,attwifi,newschoolnet.,newschoolnet ,EE Network
+98:FE:94:47:DA:A0, 2013-12-10 12:18:00, 2013-12-10 14:14:40, -84,       61, D8:C7:C8:A9:ED:A0, Ocafe WIFI,Fairwind,cafenoi,Columbia University,Orchard D,pwwpww,VictoriasSecret,Westwinds2,NEWSBAR,newschool
+98:FE:94:43:1C:4A, 2013-12-10 12:50:23, 2013-12-10 14:14:23, -92,       50, (not associated) , Camp David,O2I71,lil' ladiez,2WIRE935,computer love,level b,Qelkin54g,Dotbot Dubrule,newschool,HomeWork3
+4C:B1:99:40:80:24, 2013-12-10 08:17:18, 2013-12-10 14:13:42, -90,      117, D8:C7:C8:A9:ED:A1, VictoriasSecret,Anthony Driscollâ..s iPhone,Anthony Driscollâ..s iPhone,Anthony Driscollâ..s iPhone
+28:CF:DA:E6:D9:2E, 2013-12-10 10:23:26, 2013-12-10 14:11:53, -84,        4, 2A:A4:3C:09:F9:8E,
+1E:E8:CA:F2:BE:B8, 2013-12-10 14:10:22, 2013-12-10 14:10:23, -82,        2, 00:25:00:FF:94:73,
+D8:9E:3F:8C:09:44, 2013-12-10 13:21:45, 2013-12-10 14:09:20, -92,        7, (not associated) , Pie Face Union Square,newschool-housing
+B8:E8:56:42:7E:F2, 2013-12-10 10:55:01, 2013-12-10 14:08:53, -84,       40, (not associated) , newschoolnet.,EmerTon International Airp-guest,newschoolnet ,attwifi,central,Emerson International Airport,YUGuest,Somethingodd,facultywifi
+88:1F:A1:26:22:90, 2013-12-10 00:39:17, 2013-12-10 14:08:00, -78,       46, (not associated) , Oh Coco,Megabus,A Sweet Home,sweet home,AmtrakConnectStation,Dylan is your computer geek god.,LocalNews,PANERA,attwifi,Eveready Diner
+8C:70:5A:C9:10:F0, 2013-12-10 14:03:21, 2013-12-10 14:07:54, -90,        2, (not associated) , AdaCorePublic
+70:11:24:BE:54:FD, 2013-12-10 13:56:07, 2013-12-10 14:07:33, -76,       40, (not associated) ,
+76:D8:0A:29:66:38, 2013-12-10 13:24:44, 2013-12-10 14:04:42, -86,     2125, 00:25:00:FF:94:73,
+40:B3:95:6A:35:6C, 2013-12-10 14:03:50, 2013-12-10 14:03:50, -88,        1, (not associated) ,
+10:9A:DD:9E:CD:74, 2013-12-10 04:01:07, 2013-12-10 14:03:33, -54,       67, (not associated) , hyper,Caelina Eldred-Thielen's MacBook
+98:FE:94:4B:7E:54, 2013-12-10 11:29:44, 2013-12-10 14:02:33, -78,    21885, 44:33:4C:6C:1A:64, Tenda_44CCC8,__D12__1nt3rn3t__,attwifi,ModeMonde,@GregorysCoffee,CakeHouseWin,GDPWIFI,Medium Concepts,Wayport_Access,WiFiRSU_5957c
+BC:52:B7:D5:78:AD, 2013-12-10 09:16:54, 2013-12-10 14:00:40, -78,       24, (not associated) ,
+88:1F:A1:1A:F1:60, 2013-12-10 14:00:44, 2013-12-10 14:00:44, -94,        1, (not associated) ,
+D8:A2:5E:8D:F4:8D, 2013-12-10 13:54:01, 2013-12-10 13:59:32, -88,       17, (not associated) , Galaxy_Note_II_9437
+F8:27:93:43:81:FB, 2013-12-10 13:21:31, 2013-12-10 13:57:40, -92,       47, (not associated) ,
+00:13:E8:E2:0D:67, 2013-12-10 13:40:01, 2013-12-10 13:56:30, -86,        5, (not associated) ,
+04:F7:E4:1F:D7:1B, 2013-12-10 13:55:51, 2013-12-10 13:55:52, -90,        9, 00:23:6C:BF:7A:C7,
+84:38:35:60:E3:2C, 2013-12-10 00:55:15, 2013-12-10 13:55:43, -76,       65, (not associated) , attwifi,CableWiFi,metrowifi,Sony-Music-WIFI,AponWasHere,Macysfreewifi,LimeTiger-guest,Downtown Alliance B-bad-gateway,www.nycwireless.net,USP Park WiFi
+58:1F:AA:A6:8B:75, 2013-12-10 13:44:00, 2013-12-10 13:51:10, -86,       11, (not associated) ,
+B8:E8:56:27:2E:FE, 2013-12-10 00:46:42, 2013-12-10 13:51:03, -74,       61, D8:C7:C8:A9:ED:A1, DDW3611D7,newschoolnet ,myLGNet,attwifi,nyuguest,newschool-housing,TealPuppy-guest,untapt-2.4Ghz-guest,newschoolnet.
+C8:BC:C8:F0:AF:A2, 2013-12-10 13:49:06, 2013-12-10 13:50:11, -62,       18, (not associated) , KOA-29,BrownSycamore-guest,The Loft,MGuest,Dirty Sanchez,Russomanno,7038930284,8FN8M,linksys,Hickory Point
+48:D2:24:1E:FC:86, 2013-12-10 10:44:15, 2013-12-10 13:50:03, -94,       18, (not associated) , cloudbreak
+E8:8D:28:C8:9B:07, 2013-12-10 13:46:10, 2013-12-10 13:49:23, -82,        7, (not associated) ,
+90:72:40:82:B1:E0, 2013-12-10 13:47:23, 2013-12-10 13:47:23, -80,        1, (not associated) ,
+68:A8:6D:A2:96:EB, 2013-12-10 12:28:31, 2013-12-10 13:46:11, -94,       39, (not associated) ,
+5C:96:9D:8D:85:DB, 2013-12-10 13:42:28, 2013-12-10 13:43:32, -78,       14, (not associated) , TULESTE HQ,TrumpGuest,newschoolnet.,D432B4 5G,linksys,SOSAKOHN,32992E
+A8:FA:D8:DC:77:6F, 2013-12-10 13:43:11, 2013-12-10 13:43:11, -88,        1, (not associated) ,
+8C:58:77:4C:69:32, 2013-12-10 13:42:11, 2013-12-10 13:42:22, -94,        3, (not associated) ,
+A8:88:08:27:C6:2C, 2013-12-10 11:39:12, 2013-12-10 13:41:03, -88,       13, (not associated) ,
+F8:27:93:4E:0F:E2, 2013-12-10 12:58:05, 2013-12-10 13:39:33, -86,        2, (not associated) ,
+00:1E:65:17:D0:16, 2013-12-10 01:19:29, 2013-12-10 13:38:31, -94,       16, (not associated) ,
+30:10:E4:44:29:6C, 2013-12-10 13:38:22, 2013-12-10 13:38:22, -94,        1, (not associated) ,
+8C:2D:AA:75:86:2D, 2013-12-10 13:13:44, 2013-12-10 13:35:30, -94,       22, C8:F9:F9:89:B2:9F,
+E0:F8:47:23:8B:D6, 2013-12-10 05:15:00, 2013-12-10 13:31:00, -92,       24, 2A:A4:3C:09:F9:8E, ObiWan Kenobi,Colleen Ryanâ..s iPhone,javits,VCINET,Lovelace,JAZZTEL_8662,JLL2,Canvas 2.1,540Met3f,BMG
+00:80:48:64:8B:2B, 2013-12-10 13:30:43, 2013-12-10 13:30:43, -90,        1, (not associated) ,
+A8:88:08:83:C6:8C, 2013-12-10 12:28:23, 2013-12-10 13:30:34, -92,       10, (not associated) ,
+4C:B1:99:CD:A4:11, 2013-12-10 13:29:34, 2013-12-10 13:29:34, -86,        2, (not associated) ,
+C0:18:85:19:EB:4C, 2013-12-10 12:03:33, 2013-12-10 13:25:40, -66,       76, (not associated) ,
+8C:29:37:13:85:A6, 2013-12-10 13:25:32, 2013-12-10 13:25:40, -88,        2, (not associated) ,
+80:96:B1:29:5E:D7, 2013-12-10 08:40:33, 2013-12-10 13:22:50, -82,        5, (not associated) ,
+4C:80:93:9E:29:56, 2013-12-10 13:21:34, 2013-12-10 13:22:32, -96,        3, 00:24:6C:A8:AD:51, newschoolnet 
+30:F7:C5:B0:A2:6F, 2013-12-10 13:21:03, 2013-12-10 13:21:11, -90,        2, (not associated) ,
+6C:C2:6B:84:A7:99, 2013-12-10 07:00:41, 2013-12-10 13:19:00, -92,        4, (not associated) , Sony-Music-WIFI
+84:85:06:40:7D:22, 2013-12-10 13:15:12, 2013-12-10 13:16:33, -80,     1084, D8:C7:C8:A9:ED:A0, newschool
+B0:9F:BA:6C:59:31, 2013-12-10 12:04:49, 2013-12-10 13:16:31, -80,        6, D8:C7:C8:A9:ED:A0, VictoriasSecret
+40:0E:85:34:BF:38, 2013-12-10 13:16:05, 2013-12-10 13:16:11, -72,        3, (not associated) , Def6-N
+B8:E8:56:22:FE:5A, 2013-12-10 09:42:48, 2013-12-10 13:05:20, -68,      587, D8:C7:C8:A9:ED:A1, ELSEWHERE ESPRESSO,THELITTLEFOX,berkliparc,Air-,CoffeePantry,Glynwood,LG,The Bean,Epistrophy,newschoolnet 
+88:51:FB:3E:0B:B7, 2013-12-10 13:03:54, 2013-12-10 13:03:54, -94,        4, 02:21:E1:DC:9E:DB,
+B8:E8:56:44:E2:22, 2013-12-10 12:24:00, 2013-12-10 13:02:03, -96,        3, (not associated) , newschoolnet ,Breukelencoffeehouse 
+5C:F9:38:9F:1C:6C, 2013-12-10 11:56:24, 2013-12-10 12:59:43, -86,       12, (not associated) , attwifi,Apple Store,LIONSDEN,newschoolnet 
+F0:4F:7C:E2:93:56, 2013-12-10 10:02:49, 2013-12-10 12:57:21, -94,       39, (not associated) , .FREEWiFiGOWEX,Target Guest Wi-Fi,spc-faculty,34th Street Free WiFi,newschoolnet ,CPK,optimumwifi,TWCWiFi,metrowifi,Ayako
+8C:58:77:89:BF:D1, 2013-12-10 10:34:47, 2013-12-10 12:56:14, -90,       60, (not associated) , MaplewoodMain,SVA WLAN - 133W21,HFWifi,Miriam Gold's iMac,NETGEAR_11g,Coogans_WiFi,DefaultSsid2-1,YPCG6,CLSC-guest,WMN_AP
+C8:BC:C8:CD:A7:E2, 2013-12-10 11:49:59, 2013-12-10 12:56:02, -68,      201, 20:C9:D0:29:11:3B, Def6-N,Air-
+08:70:45:2D:F9:64, 2013-12-10 12:55:24, 2013-12-10 12:55:24, -94,        1, (not associated) ,
+5C:F9:38:94:5A:E2, 2013-12-10 12:53:33, 2013-12-10 12:53:43, -66,       29, (not associated) , NMJW5,dlink,Stoneman,Apple Store,newschoolnet 
+E0:F8:47:09:91:0A, 2013-12-10 09:15:12, 2013-12-10 12:53:12, -74,       27, (not associated) , VictoriasSecret,newschoolnet 
+70:11:24:AB:A2:4E, 2013-12-10 12:52:13, 2013-12-10 12:52:13, -90,        1, (not associated) ,
+E0:F8:47:2F:FB:92, 2013-12-10 09:36:21, 2013-12-10 12:52:01, -96,       17, (not associated) ,
+F0:D1:A9:6D:A7:58, 2013-12-10 09:38:20, 2013-12-10 12:51:11, -92,        7, (not associated) ,
+74:DE:2B:6D:56:2D, 2013-12-10 12:25:53, 2013-12-10 12:47:20, -92,       38, 5C:96:9D:6B:29:81,
+24:AB:81:8C:98:31, 2013-12-10 12:45:51, 2013-12-10 12:45:53, -88,        2, D8:C7:C8:A9:ED:A0, newschool
+28:E0:2C:CA:17:B2, 2013-12-10 12:01:14, 2013-12-10 12:45:53, -94,        8, 5C:96:9D:6B:29:81,
+54:EA:A8:41:31:1C, 2013-12-10 10:45:39, 2013-12-10 12:44:50, -82,       70, 5C:96:9D:6B:29:81, TransD's Wi-Fi Network,newschool
+EC:35:86:3E:C0:7A, 2013-12-10 00:41:18, 2013-12-10 12:43:30, -86,       37, (not associated) , newschoolnet,newschoolnet.
+AC:FD:EC:0B:57:74, 2013-12-10 12:43:01, 2013-12-10 12:43:01, -88,        1, (not associated) , Def6-N
+50:A4:C8:EE:8D:69, 2013-12-10 12:36:17, 2013-12-10 12:38:54, -86,        4, (not associated) ,
+D0:22:BE:0D:09:EC, 2013-12-10 05:33:31, 2013-12-10 12:38:40, -94,        3, 2A:A4:3C:09:F9:8E,
+10:68:3F:3B:B5:87, 2013-12-10 09:24:22, 2013-12-10 12:38:04, -88,    10004, 20:C9:D0:23:5B:F9, WNDR4000,skillmanpharmacy,Def6-N
+A4:C3:61:DA:44:96, 2013-12-10 10:17:46, 2013-12-10 12:38:02, -90,       25, 20:C9:D0:24:DF:9B, Def6-N
+B8:E8:56:31:4F:C8, 2013-12-10 10:23:35, 2013-12-10 12:37:43, -127,   111052, D8:C7:C8:A9:ED:A0, DDW3611F1,L.L.L,newschool,newschoolnet ,DG860AF2,attwifi
+2C:B4:3A:85:56:1F, 2013-12-10 12:33:14, 2013-12-10 12:35:52, -78,       15, D8:C7:C8:A9:ED:A0, newschool
+20:C9:D0:CD:B2:9F, 2013-12-10 12:35:51, 2013-12-10 12:35:51, -80,        7, (not associated) , B436,shuba,VIP,Tsinghua,Kensington Close Guest,NAMOC
+1C:B0:94:88:80:FB, 2013-12-10 10:12:10, 2013-12-10 12:32:44, -92,      163, D8:C7:C8:A9:ED:A1, newschoolnet 
+8C:29:37:44:51:56, 2013-12-10 10:32:13, 2013-12-10 12:32:40, -92,       47, (not associated) ,
+F8:27:93:36:27:F6, 2013-12-10 10:16:03, 2013-12-10 12:32:04, -80,      345, D8:C7:C8:A9:ED:A1, newschoolnet 
+E4:98:D6:EC:1B:E9, 2013-12-10 10:00:34, 2013-12-10 12:29:41, -80,      118, (not associated) ,
+A8:44:81:D7:9D:7C, 2013-12-10 11:38:13, 2013-12-10 12:29:40, -90,       16, D8:C7:C8:A9:ED:A0, newschool
+88:32:9B:6A:1E:95, 2013-12-10 10:32:26, 2013-12-10 12:28:52, -88,     1006, D8:C7:C8:A9:ED:A1, newschoolnet ,newschool-alumni
+E0:F5:C6:8A:02:A4, 2013-12-10 10:02:44, 2013-12-10 12:28:51, -94,       11, (not associated) ,
+8C:29:37:1D:F0:78, 2013-12-10 12:28:20, 2013-12-10 12:28:20, -94,        1, (not associated) , newschool
+30:10:E4:2A:3E:04, 2013-12-10 12:26:08, 2013-12-10 12:26:13, -92,        2, (not associated) , Buffalo
+A4:C3:61:43:E5:AA, 2013-12-10 12:24:32, 2013-12-10 12:24:32, -96,        1, (not associated) ,
+F8:27:93:6A:6F:1D, 2013-12-10 12:10:01, 2013-12-10 12:21:50, -80,       14, (not associated) ,
+D8:96:95:0C:C5:90, 2013-12-10 01:57:14, 2013-12-10 12:21:31, -82,     5866, D8:C7:C8:A9:ED:A0, newschool
+24:5F:DF:71:AA:13, 2013-12-10 12:20:36, 2013-12-10 12:21:10, -90,        4, (not associated) ,
+A8:16:B2:55:6E:85, 2013-12-10 12:19:53, 2013-12-10 12:19:53, -88,        1, (not associated) ,
+BC:92:6B:48:5F:7D, 2013-12-10 12:19:50, 2013-12-10 12:19:50, -90,        1, (not associated) ,
+94:94:26:8E:0F:71, 2013-12-10 11:45:13, 2013-12-10 12:17:41, -92,        5, (not associated) ,
+88:CB:87:88:7A:C3, 2013-12-10 00:17:41, 2013-12-10 12:16:02, -80,      391, D8:C7:C8:A9:ED:A1, newschoolnet 
+AC:3C:0B:3E:78:36, 2013-12-10 09:15:37, 2013-12-10 12:14:42,  -1,       35, 02:20:A6:F0:AF:0A,
+5C:0A:5B:FE:EC:FB, 2013-12-10 08:54:59, 2013-12-10 12:11:53, -90,      221, (not associated) ,
+28:CF:E9:A4:BC:79, 2013-12-10 09:52:44, 2013-12-10 12:09:41, -90,        6, (not associated) , newschool
+88:1F:A1:27:30:02, 2013-12-10 12:06:15, 2013-12-10 12:07:04, -78,       11, (not associated) , Apple Store,18691B,newschoolnet,CableWiFi,nyuguest,nyupda,newschool-community
+20:C9:D0:83:6E:91, 2013-12-10 09:52:04, 2013-12-10 12:06:10, -78,      391, D8:C7:C8:A9:ED:A1, newschoolnet ,Jims,Boingo Hotspot,WIFI-AIRPORT,netd988,GuralSapanca,dlink,ADA,fenerbahce,matthew-PC_Network
+10:9A:DD:9E:E2:40, 2013-12-10 04:00:58, 2013-12-10 12:05:54, -72,       61, (not associated) , hyper
+4C:B1:99:47:0F:32, 2013-12-10 12:04:44, 2013-12-10 12:04:54, -80,        2, (not associated) , VictoriasSecret
+4C:8D:79:E3:D5:5A, 2013-12-10 11:38:16, 2013-12-10 12:03:04, -72,      103, (not associated) , publicocce,CafeLiterarioBustamante,VictoriasSecret,IA Public Wi-Fi_2,EYEO 2013,MarmotHouse-guest,Eduardo,GAM PUBLICA,Centro Cultural,Motorola
+E4:CE:8F:C0:5A:2D, 2013-12-10 08:52:22, 2013-12-10 11:55:11, -84,      731, D8:C7:C8:A9:ED:A1, CroqueMonsieur,2CKR1,TnT2012,LCITY_GUEST,Sit & Wonder,MODCA CAFE,tenement2L,newschoolnet ,everyman espresso,.FREEWiFiGOWEX
+B0:9F:BA:4E:DB:21, 2013-12-10 11:43:53, 2013-12-10 11:54:24, -90,       88, D8:C7:C8:A9:ED:A0, newschool
+8C:2D:AA:62:28:3C, 2013-12-10 11:52:15, 2013-12-10 11:52:20,  -1,        7, D8:C7:C8:A9:ED:A0,
+40:0E:85:19:42:22, 2013-12-10 11:51:42, 2013-12-10 11:51:42, -90,        1, (not associated) , newschoolnet 
+F0:DC:E2:E5:58:CE, 2013-12-10 11:27:54, 2013-12-10 11:50:53, -92,        6, (not associated) ,
+B0:9F:BA:21:DD:92, 2013-12-10 11:44:11, 2013-12-10 11:44:11, -88,        1, (not associated) ,
+62:2C:4B:B2:69:52, 2013-12-10 09:46:29, 2013-12-10 11:39:50, -92,        8, 00:25:00:FF:94:73,
+26:F3:BB:EF:F9:75, 2013-12-10 11:34:08, 2013-12-10 11:38:30, -88,       47, 00:25:00:FF:94:73,
+20:7D:74:04:A5:62, 2013-12-10 11:37:31, 2013-12-10 11:38:24, -84,        5, (not associated) , DJ100
+E8:92:A4:95:83:2C, 2013-12-10 11:37:04, 2013-12-10 11:37:04, -88,        2, (not associated) ,
+AC:22:0B:65:8A:60, 2013-12-10 11:11:21, 2013-12-10 11:36:02, -94,       67, (not associated) , BLANGBERG,PRRIDGEFIELD,1HamlinCt,Apple Network afb586,NARASIMHA,NETGEAR,09FX01061256,belkin.34ca,Firewire,sonicwall-D9C0
+00:23:12:12:A4:CD, 2013-12-10 09:37:24, 2013-12-10 11:35:53, -92,       74, (not associated) , Joyce Public,newschoolnet ,stueri-guest,HappyFlamingo-guest,Blis NY Wi-Fi,Boingo Hotspot,Free Wi-Fi by Microsoft,CIC Free WiFi,MountSinaiGuest-OffCampus,theswagback101010101010101010101
+06:E8:D8:FC:4B:1A, 2013-12-10 11:29:05, 2013-12-10 11:32:13, -90,       58, 00:25:00:FF:94:73,
+F0:D1:A9:56:DE:1C, 2013-12-10 10:59:58, 2013-12-10 11:32:02, -84,     8164, 20:C9:D0:29:11:3B, Def6-N
+7C:D1:C3:E9:63:C3, 2013-12-10 00:52:14, 2013-12-10 11:32:04, -96,        4, (not associated) , Air-,Cloverfield
+20:C9:D0:47:C7:79, 2013-12-10 11:20:03, 2013-12-10 11:20:03, -96,        6, (not associated) , Health Unlimited,attwifi,FBT LOBBY ,Big Sur River Inn,Nordstrom_Wi-Fi,StateBird WiFi
+00:23:14:A1:6C:48, 2013-12-10 11:07:01, 2013-12-10 11:17:02, -90,       46, 00:20:A6:F0:AF:0A,
+30:10:E4:5F:5D:3C, 2013-12-10 11:15:34, 2013-12-10 11:15:34, -92,        1, (not associated) ,
+C8:E0:EB:14:F4:AF, 2013-12-10 11:12:46, 2013-12-10 11:13:54,  -1,        4, 5C:96:9D:6B:29:81,
+94:94:26:01:04:F8, 2013-12-10 08:47:08, 2013-12-10 11:12:10, -94,       17, (not associated) , UEQR2,PKG 2nd Floor,OTE CONNX,newschoolnet ,Christies Galleries,ChristiesGuest,newschoolnet.,Conrad Guest
+4C:EB:42:14:5B:69, 2013-12-10 09:27:02, 2013-12-10 11:02:31, -90,        7, (not associated) , ARKOFFICE
+10:40:F3:59:A1:F5, 2013-12-10 08:48:49, 2013-12-10 11:00:43, -92,       49, (not associated) ,
+E0:F8:47:32:2B:42, 2013-12-10 10:58:00, 2013-12-10 10:58:00, -88,        4, (not associated) , CDL-1,TG862GE2,NETGEAR
+84:3A:4B:45:C2:78, 2013-12-10 10:57:01, 2013-12-10 10:57:01, -86,        1, (not associated) ,
+30:10:E4:6C:92:E8, 2013-12-10 10:56:14, 2013-12-10 10:56:41, -86,        2, (not associated) , Def6-N
+00:23:14:9A:F1:7C, 2013-12-10 10:51:32, 2013-12-10 10:51:32, -92,        1, (not associated) , newschoolnet 
+04:DB:56:18:73:89, 2013-12-10 10:45:01, 2013-12-10 10:45:01, -92,        1, (not associated) ,
+AC:7F:3E:21:C1:E1, 2013-12-10 10:44:33, 2013-12-10 10:44:50, -94,        5, (not associated) ,
+1A:D2:24:1E:FC:86, 2013-12-10 10:43:50, 2013-12-10 10:43:50, -92,        1, (not associated) ,
+B8:E8:56:2D:B9:34, 2013-12-10 08:38:34, 2013-12-10 10:43:12, -88,       38, (not associated) , 3XFR5,newschoolnet,newschoolnet ,Cafe Mercato
+52:90:EA:36:E7:7D, 2013-12-10 10:39:01, 2013-12-10 10:39:02, -88,       16, 00:25:00:FF:94:73,
+9A:77:77:63:90:E1, 2013-12-10 10:38:32, 2013-12-10 10:38:34, -82,       26, 00:25:00:FF:94:73,
+F8:27:93:58:4C:B5, 2013-12-10 10:36:04, 2013-12-10 10:36:40, -86,        3, C8:F9:F9:28:2A:80,
+00:14:51:E6:47:62, 2013-12-10 10:36:33, 2013-12-10 10:36:33, -86,        1, (not associated) ,
+C8:E0:EB:A3:1B:85, 2013-12-10 09:08:31, 2013-12-10 10:34:02, -92,        4, (not associated) ,
+54:26:96:D5:7A:53, 2013-12-10 10:33:14, 2013-12-10 10:33:14, -90,        1, (not associated) , AppleWiFiSecure
+30:F7:C5:E5:1F:4A, 2013-12-10 08:42:18, 2013-12-10 10:27:20, -82,     1921, D8:C7:C8:A9:ED:A4, eduroam
+B8:F6:B1:19:6B:09, 2013-12-10 10:26:52, 2013-12-10 10:26:52, -94,        1, (not associated) , Geert Boschâ..s iPhone
+C8:B5:B7:F0:1C:68, 2013-12-10 09:19:57, 2013-12-10 10:22:42, -84,       92, (not associated) ,
+10:40:F3:9E:EF:86, 2013-12-10 10:19:14, 2013-12-10 10:19:14, -88,        1, (not associated) ,
+B8:E8:56:44:A4:88, 2013-12-10 10:14:50, 2013-12-10 10:14:50, -94,        2, (not associated) , DG860AF2
+98:FE:94:42:2E:68, 2013-12-10 10:14:01, 2013-12-10 10:14:01, -92,        4, (not associated) , Canvas 2.1,ObiWan Kenobi,jinjinlee
+88:1F:A1:18:A0:6E, 2013-12-10 10:11:35, 2013-12-10 10:12:40, -84,       10, (not associated) , newschoolnet,4B1773,Purpose,54751C,newschool-community
+40:0E:85:70:49:AE, 2013-12-10 09:26:10, 2013-12-10 10:10:31, -86,       67, (not associated) ,
+08:70:45:3D:E6:70, 2013-12-10 09:49:08, 2013-12-10 10:09:41, -86,      448, D8:C7:C8:A9:ED:A4, The_Trash_Bar,Cisco23493,MoMAPS1 Wireless,Wendy's Wi-Fi,Bonnie-guest,SS14,PIER57-Production,new york muffins-Guest,CIC Free WiFi,THESTANDARD
+40:B0:FA:64:33:D3, 2013-12-10 09:01:21, 2013-12-10 10:09:04, -92,        4, 00:18:0A:35:2A:B6, JDS Private
+F8:27:93:55:2D:83, 2013-12-10 09:09:57, 2013-12-10 10:07:53, -80,      310, D8:C7:C8:A9:ED:A1, newschoolnet 
+00:25:00:4D:56:23, 2013-12-10 10:05:30, 2013-12-10 10:06:34, -88,        2, (not associated) ,
+0C:30:21:44:07:84, 2013-12-10 09:14:14, 2013-12-10 10:06:20, -74,        7, (not associated) ,
+78:A3:E4:2D:89:87, 2013-12-10 10:05:48, 2013-12-10 10:06:21, -90,       34, 20:C9:D0:24:DF:9B, Def6-N
+6C:8B:2F:59:9A:B9, 2013-12-10 10:05:03, 2013-12-10 10:05:03, -86,        5, (not associated) , B-52 d
+14:10:9F:D2:86:7B, 2013-12-10 09:59:31, 2013-12-10 09:59:31, -94,        1, (not associated) , 437 33 church
+38:AA:3C:07:16:7E, 2013-12-10 09:49:48, 2013-12-10 09:55:53, -92,        4, (not associated) , newschoolnet 
+CC:3A:61:0A:E7:D4, 2013-12-10 09:55:21, 2013-12-10 09:55:21, -90,        1, (not associated) ,
+6C:88:14:27:9F:4C, 2013-12-10 00:59:49, 2013-12-10 09:53:51, -94,        9, (not associated) ,
+C8:33:4B:28:60:AF, 2013-12-10 09:51:41, 2013-12-10 09:51:41, -88,        1, (not associated) , Sony-Music-WIFI
+E4:98:D6:E5:BD:9B, 2013-12-10 09:20:56, 2013-12-10 09:51:03, -88,       12, (not associated) ,
+68:A8:6D:3D:A0:2A, 2013-12-10 09:49:26, 2013-12-10 09:50:40, -84,       42, (not associated) , artichoke,Trailway 82061,newschoolnet,trailways82033,Trailways 82040,trailways 82062,Cosi,attwifi,61B34,VirginMobile MiFi2200 280 Secure
+00:1C:B3:B6:EF:72, 2013-12-10 09:46:30, 2013-12-10 09:47:33, -64,        3, (not associated) , Def6-N
+38:AA:3C:04:6A:A5, 2013-12-10 09:02:11, 2013-12-10 09:46:34, -86,       17, (not associated) ,
+28:E7:CF:52:83:3E, 2013-12-10 09:32:33, 2013-12-10 09:43:43, -86,        7, (not associated) ,
+B8:E8:56:15:4C:C6, 2013-12-10 09:41:06, 2013-12-10 09:41:43, -86,        8, (not associated) , newschoolnet ,bcupcafe,CableWiFi
+A4:C3:61:94:ED:F1, 2013-12-10 09:40:20, 2013-12-10 09:40:20, -86,        2, (not associated) ,
+E4:CE:8F:25:3E:22, 2013-12-10 09:34:37, 2013-12-10 09:35:42, -84,        5, (not associated) , newschoolnet 
+78:CA:39:41:05:F8, 2013-12-10 09:35:22, 2013-12-10 09:35:22, -86,        1, (not associated) , newschoolnet 
+80:96:B1:EC:FE:7E, 2013-12-10 09:33:32, 2013-12-10 09:33:32, -94,        1, (not associated) , HOME-7F92
+CC:3A:61:39:16:32, 2013-12-10 09:31:31, 2013-12-10 09:31:31, -98,        1, (not associated) ,
+00:1F:DE:16:F6:65, 2013-12-10 09:29:23, 2013-12-10 09:29:23, -84,        2, (not associated) ,
+88:32:9B:02:06:25, 2013-12-10 06:49:57, 2013-12-10 09:28:21, -96,      119, (not associated) , newschoolnet 
+00:1C:B3:78:D2:D8, 2013-12-10 09:21:17, 2013-12-10 09:22:22, -86,        5, (not associated) , Synaptic Digital
+BC:3B:AF:91:A4:41, 2013-12-10 09:21:23, 2013-12-10 09:21:23, -86,        1, (not associated) ,
+34:C0:59:E6:CB:88, 2013-12-10 09:16:32, 2013-12-10 09:16:32, -92,        1, (not associated) ,
+08:60:6E:B3:22:A3, 2013-12-10 09:04:02, 2013-12-10 09:04:02, -94,        3, (not associated) , SternOntheMove,newschoolnet,HNGC
+F0:DC:E2:4D:B4:BE, 2013-12-10 09:00:44, 2013-12-10 09:00:44, -86,        1, (not associated) ,
+28:37:37:16:AA:5B, 2013-12-10 08:58:38, 2013-12-10 08:58:54, -68,       28, (not associated) , newschoolnet,hyper,AMT_MC_D1208_01
+28:CF:E9:00:3E:57, 2013-12-10 02:10:02, 2013-12-10 08:51:03, -80,       26, (not associated) , newschoolnet,hyper,AMT_MC_D1208_01
+A8:BB:CF:21:54:5A, 2013-12-10 00:53:29, 2013-12-10 08:50:33, -86,       23, (not associated) , TomIsAnAsshole,emmawodwifi,narwhals,knewton-guest,SCH-I5359F02,Imperial,12th Floor,NSLIJHS-WIFI
+10:68:3F:FD:47:3E, 2013-12-10 08:41:11, 2013-12-10 08:41:11, -94,        1, (not associated) ,
+CC:3A:61:0E:57:3F, 2013-12-10 08:35:41, 2013-12-10 08:38:04, -82,        9, (not associated) , newschoolnet 
+38:AA:3C:88:89:2B, 2013-12-10 04:47:42, 2013-12-10 08:30:53, -96,        8, (not associated) , newschoolnet 
+40:0E:85:18:C7:91, 2013-12-10 08:24:00, 2013-12-10 08:24:00, -92,        2, (not associated) ,
+60:C5:47:07:09:7C, 2013-12-10 08:22:14, 2013-12-10 08:22:14, -90,        1, (not associated) ,
+B8:E8:56:0D:D6:CE, 2013-12-10 02:40:55, 2013-12-10 07:42:54, -66,       56, D8:C7:C8:A9:ED:A1, Three's Company-guest,Champs,YaffaCafe,DVW3201B98,coyicafe,DDW3611E7,attwifi,INTERNET,42DVN,McPalace-guest
+0C:30:21:00:0D:D1, 2013-12-10 00:19:27, 2013-12-10 07:37:20, -88,       21, 00:11:50:5B:4C:85,
+E4:CE:8F:66:CB:02, 2013-12-10 05:02:02, 2013-12-10 07:35:30, -94,        3, (not associated) , KLG Network
+00:26:55:77:A4:20, 2013-12-10 07:14:22, 2013-12-10 07:17:14, -90,        7, (not associated) , cloudbreak
+58:67:1A:56:57:7D, 2013-12-10 06:44:04, 2013-12-10 06:44:04, -96,        2, (not associated) , OverdriveProC62,Blis NY Wi-Fi
+34:C0:59:C0:43:B0, 2013-12-10 00:09:35, 2013-12-10 06:29:12, -92,    27665, 20:C9:D0:24:DF:9B,
+D0:23:DB:1D:DB:DA, 2013-12-10 02:39:56, 2013-12-10 06:20:02, -90,        2, 00:11:50:5B:4C:85,
+0C:77:1A:A1:83:5D, 2013-12-10 00:25:50, 2013-12-10 05:51:24, -82,      201, (not associated) ,
+10:9A:DD:B8:E9:32, 2013-12-10 05:44:45, 2013-12-10 05:46:40, -78,        4, (not associated) , Def6-N
+58:55:CA:49:21:7A, 2013-12-10 05:11:10, 2013-12-10 05:37:14, -94,        2, (not associated) , vandy
+C8:E0:EB:99:F2:F4, 2013-12-10 04:01:43, 2013-12-10 04:01:43, -82,        2, (not associated) , newschool
+10:9A:DD:BF:13:CF, 2013-12-10 01:25:35, 2013-12-10 04:00:02, -88,        2, (not associated) , newschoolnet 
+00:26:BB:08:E8:3B, 2013-12-10 00:28:45, 2013-12-10 03:10:11, -80,       44, D8:C7:C8:A9:ED:A1, MiAmKe,chester-guest,newschoolnet.,French Roast,ShuKo,TSAIA_PUBLIC,5385,00160127A030,SCHU201314,GF8ZF
+F8:1E:DF:DB:91:A1, 2013-12-10 00:13:32, 2013-12-10 02:39:52, -78,        8, (not associated) , newschool
+30:F7:C5:9E:BE:99, 2013-12-10 00:14:29, 2013-12-10 02:13:20, -92,      217, (not associated) ,
+74:2F:68:3A:8F:0F, 2013-12-10 01:13:40, 2013-12-10 01:55:51, -62,       37, D8:C7:C8:A9:ED:A1, newschoolnet 
+60:FA:CD:E1:A4:7E, 2013-12-10 00:15:18, 2013-12-10 01:09:53, -94,       54, D8:C7:C8:A9:ED:A0, newschool
+20:C9:D0:48:5C:85, 2013-12-10 00:29:27, 2013-12-10 00:53:43, -76,       33, (not associated) , Freiha DSL,johnny wifi,Jadaa WiFi,Blink1F0055,Balima,FRLinksys,Gloria Jean's,newschoolnet ,AUBdot1x,Paul Cafe
+10:40:F3:EA:88:A8, 2013-12-10 00:32:37, 2013-12-10 00:38:30, -70,        2, (not associated) , newschoolnet 
+90:72:40:D0:D1:77, 2013-12-10 00:18:15, 2013-12-10 00:20:05, -90,       22, D8:C7:C8:A9:ED:A0, newschool
+78:59:5E:35:84:F3, 2013-12-10 00:18:09, 2013-12-10 00:31:47, -94,        6, (not associated) ,
+98:FE:94:18:3E:5E, 2013-12-10 00:34:49, 2013-12-10 00:37:39, -92,       62, 20:C9:D0:24:DF:9B, Def6-N
+38:AA:3C:82:AA:36, 2013-12-10 00:15:04, 2013-12-10 01:01:26, -90,      212, D8:C7:C8:A9:ED:A1, newschoolnet 
+00:23:6C:87:B2:3C, 2013-12-10 00:41:02, 2013-12-10 01:11:49, -92,        3, (not associated) ,
+B8:8D:12:3D:67:B4, 2013-12-10 01:08:29, 2013-12-10 01:22:46, -70,       39, (not associated) , TP-LINK_E7B05E,LuckyEagle-guest,EE Network,SiloamSprings,newschoolnet ,FavoriteCafe,linksys_18b,nw_19,CiscoB6089,Apple Demo
+A0:F4:50:10:36:AC, 2013-12-10 01:12:17, 2013-12-10 01:27:15, -92,        7, (not associated) ,
+28:37:37:1C:0A:2A, 2013-12-10 01:22:01, 2013-12-10 01:34:35, -76,        5, (not associated) , newschoolnet 
+84:FC:FE:C8:A0:CA, 2013-12-10 00:10:49, 2013-12-10 02:20:59, -90,     1356, D8:C7:C8:A9:ED:A1, newschoolnet 
+D8:9E:3F:90:9A:50, 2013-12-10 00:11:20, 2013-12-10 02:22:57, -92,      526, D8:C7:C8:A9:ED:A0, newschool
+FA:9C:99:74:24:4E, 2013-12-10 03:15:14, 2013-12-10 03:15:28, -90,       36, 00:25:00:FF:94:73,
+70:56:81:90:EF:39, 2013-12-10 03:29:02, 2013-12-10 03:30:07, -62,       24, (not associated) , MOVIL,TADEOMOVIL-CENTRO,Android-Fabi,CARLOS NIETO,UNE_35BC,ALBSEG,CPE-WI-FI_ETB,W.G.M.,TADEOSISTEMAS,UTADEOMOVIL202
+08:00:28:58:CF:64, 2013-12-10 00:14:56, 2013-12-10 03:36:46, -90,       19, (not associated) , kefang's iPhone
+0C:74:C2:C8:4A:9A, 2013-12-10 00:13:46, 2013-12-10 03:38:29, -86,      402, (not associated) ,
+D8:96:95:0D:AC:D0, 2013-12-10 00:12:52, 2013-12-10 03:52:07, -88,      978, D8:C7:C8:A9:ED:A0, newschool
+F0:A2:25:05:57:A1, 2013-12-10 02:59:29, 2013-12-10 04:14:39, -76,        2, (not associated) ,
+00:26:B0:92:36:C5, 2013-12-10 00:11:04, 2013-12-10 04:29:06, -86,     1684, D8:C7:C8:A9:ED:A1, floor3,Megabus,Tamica,Megabus - FIXED,newschoolnet 
+18:AF:61:EC:4A:F0, 2013-12-10 05:17:55, 2013-12-10 05:17:55, -90,        1, (not associated) , PWLAN1
+58:B0:35:7B:0E:8A, 2013-12-10 00:56:02, 2013-12-10 05:25:05, -82,       40, (not associated) , JCG-881284,NETGEAR-2.4-G,newschoolnet ,WiFi Zone - The Cloud,PUBLIC,SlugandLettuce,virginmedia2276161,BTFON,ghan,HARBOUR_GRAND
+00:25:00:3D:7F:48, 2013-12-10 00:36:42, 2013-12-10 05:52:59, -80,       63, (not associated) , VictoriasSecret,MAFAM2,newschoolnet,Boingo Hotspot,Arnold and Porter Guest,MTV,HotelWireless
+14:10:9F:E6:53:4F, 2013-12-10 00:19:31, 2013-12-10 05:56:17, -94,        4, (not associated) , newschoolnet 
+08:FC:88:7D:8B:48, 2013-12-10 01:57:29, 2013-12-10 06:05:18, -90,      122, (not associated) , newschoolnet 
+40:0E:85:7E:20:D5, 2013-12-10 00:56:51, 2013-12-10 06:09:38, -84,      500, D8:C7:C8:A9:ED:A1, newschoolnet 
+04:54:53:10:76:D3, 2013-12-10 01:57:52, 2013-12-10 06:17:56,  -1,       35, C0:C1:C0:0A:8A:06,
+D8:A2:5E:99:04:06, 2013-12-10 06:47:02, 2013-12-10 06:48:05, -92,        9, (not associated) , 09FX12052563,SandysNet2,US_FOUR,B_Susie,SandysNet2-guest,dlink,attwifi
+B0:79:94:70:63:53, 2013-12-10 06:45:59, 2013-12-10 06:59:39, -94,        2, (not associated) ,
+14:10:9F:D5:2E:F7, 2013-12-10 01:26:06, 2013-12-10 07:00:38, -88,    24306, D8:C7:C8:A9:ED:A1, newschoolnet ,linksys,TheSkyTentAccessPortal,tocwireless.net,dlink,NF6J4,DATTCO - 75244L,QuickMoose,bollo's,VT_WLAN
+00:1D:7D:4B:62:38, 2013-12-10 07:26:02, 2013-12-10 07:26:28, -94,        5, (not associated) , PARAVLM
+28:CF:E9:17:F8:27, 2013-12-10 07:55:45, 2013-12-10 07:55:49, -90,        7, (not associated) , knewton,qwedsa,CHERYL-PC_Network,knewton-guest,Washington Square Hotel,Boingo Hotspot
+40:6A:AB:5F:36:CB, 2013-12-10 08:04:59, 2013-12-10 08:04:59, -94,        1, (not associated) , tmobile
+E4:CE:8F:2A:9D:2E, 2013-12-10 08:10:36, 2013-12-10 08:10:36, -96,        1, (not associated) , pnet
+E0:63:E5:AE:DF:ED, 2013-12-10 08:27:31, 2013-12-10 08:27:37, -84,        4, (not associated) ,
+F4:F1:5A:24:00:CA, 2013-12-10 08:31:17, 2013-12-10 08:31:17, -94,        1, (not associated) ,
+0C:D2:92:29:D6:37, 2013-12-10 08:49:52, 2013-12-10 08:56:26, -92,        3, (not associated) , newschool
+E0:CB:1D:E1:9B:C9, 2013-12-10 08:59:35, 2013-12-10 09:00:08, -88,       21, (not associated) , Center-Parcs-Visitor,guestbl,Ui Guests,GlobalSuiteWireless,DoyleCollectionWiFi,OldWaverleywifi,Mary Fickling's Network,gogoinflight,eastcoast-wifi,Clumber Park Hotel WiFi
+50:CC:F8:D1:58:ED, 2013-12-10 09:06:38, 2013-12-10 09:06:38, -90,        1, (not associated) ,
+18:34:51:8E:2B:BE, 2013-12-10 09:13:25, 2013-12-10 09:13:25, -92,        2, (not associated) ,
+8C:2D:AA:87:E8:17, 2013-12-10 00:41:10, 2013-12-10 09:17:56, -92,       34, C8:F9:F9:28:2A:80, AppleWiFi
+80:96:B1:7E:13:8D, 2013-12-10 09:26:54, 2013-12-10 09:26:57, -90,        2, D8:C7:C8:A9:ED:A0, newschool
+10:40:F3:41:87:24, 2013-12-10 09:20:37, 2013-12-10 09:29:55, -94,        4, (not associated) ,
+40:A6:D9:49:16:AD, 2013-12-10 09:30:16, 2013-12-10 09:31:05, -94,        5, (not associated) ,
+8C:00:6D:17:5F:44, 2013-12-10 09:32:15, 2013-12-10 09:32:15, -94,        1, (not associated) ,
+A0:ED:CD:BB:CA:67, 2013-12-10 09:36:06, 2013-12-10 09:36:06, -88,        1, (not associated) , Sony-Music-WIFI
+54:26:96:28:81:F1, 2013-12-10 09:35:55, 2013-12-10 09:36:26, -72,        2, (not associated) , newschool
+4C:8D:79:F2:9C:52, 2013-12-10 09:37:18, 2013-12-10 09:39:09, -90,      375, 02:20:A6:F0:AF:0A,
+14:99:E2:E4:7D:09, 2013-12-10 09:43:00, 2013-12-10 09:43:06, -74,       20, 20:C9:D0:29:11:3B, Def6-N
+88:53:95:6C:7B:A7, 2013-12-10 09:44:36, 2013-12-10 09:44:36, -86,        1, (not associated) ,
+5C:96:9D:7B:03:D7, 2013-12-10 09:21:12, 2013-12-10 09:47:17, -82,       76, (not associated) , Verizon MIFI4510L D4A6 Secure,Logos-WIFI,ospip-1,ospip10,ospip235,Ospip4,Zemohome_EXT,newschoolnet ,attwifi,newschoolnet
+70:DE:E2:9E:BF:AD, 2013-12-10 09:21:37, 2013-12-10 09:47:26, -92,       21, (not associated) , Logos-WIFI
+C8:AA:21:91:92:D5, 2013-12-10 09:48:29, 2013-12-10 09:48:29, -90,        1, (not associated) ,
+68:9C:70:E4:88:65, 2013-12-10 09:48:46, 2013-12-10 09:48:46, -92,        1, (not associated) ,
+8C:29:37:18:A9:84, 2013-12-10 09:51:16, 2013-12-10 09:51:16, -84,        1, (not associated) ,
+70:56:81:95:56:67, 2013-12-10 09:52:58, 2013-12-10 09:53:58, -66,        8, (not associated) , linksys
+7C:C3:A1:B0:30:C6, 2013-12-10 09:54:12, 2013-12-10 09:56:06, -86,        6, (not associated) , newschoolnet,newschoolnet.
+C8:E0:EB:18:00:1D, 2013-12-10 09:57:14, 2013-12-10 09:57:18, -90,        2, (not associated) ,
+68:ED:43:AE:C5:CF, 2013-12-10 09:27:43, 2013-12-10 09:57:39, -88,        3, (not associated) ,
+3A:09:9B:3B:E2:20, 2013-12-10 10:01:19, 2013-12-10 10:01:19, -90,        1, 00:25:00:FF:94:73,
+5C:96:9D:93:7D:9B, 2013-12-10 10:01:24, 2013-12-10 10:01:27, -94,       14, 00:24:6C:A8:AD:51, T-RAV,Boingo Hotspot,gogoinflight,Pound Town,AmtrakConnect,Hillside on the Air,linksys_OW_49228,Tinys Giant,iCrunch,Skynet
+5C:F8:A1:E7:2A:C9, 2013-12-10 10:01:57, 2013-12-10 10:01:57, -90,        1, (not associated) ,
+10:40:F3:89:66:02, 2013-12-10 10:04:08, 2013-12-10 10:04:08, -92,        2, (not associated) , cloudbreak
+64:20:0C:0F:A0:62, 2013-12-10 08:24:55, 2013-12-10 10:05:27,  -1,       27, 02:20:A6:F0:AF:0A,
+04:F7:E4:9A:CA:92, 2013-12-10 09:07:33, 2013-12-10 10:06:05, -88,       14, (not associated) ,
+88:CB:87:B8:A6:E7, 2013-12-10 09:07:31, 2013-12-10 10:06:17, -78,       35, (not associated) , newschoolnet 
+5C:F9:38:DE:FD:B3, 2013-12-10 08:59:39, 2013-12-10 10:07:39, -92,       99, (not associated) ,
+4C:B1:99:A8:B6:E3, 2013-12-10 09:29:07, 2013-12-10 10:08:25, -78,       34, (not associated) , newschoolnet 
+28:CF:DA:E9:F9:82, 2013-12-10 10:07:32, 2013-12-10 10:08:35, -94,       10, (not associated) , linksys,PANERA,nyuguest,NYU-ROAM3,LanceBass,Sam M,Debra
+F0:CB:A1:C0:AC:C0, 2013-12-10 09:03:45, 2013-12-10 10:09:26, -84,      206, (not associated) ,
+C8:6F:1D:EF:51:FD, 2013-12-10 08:20:50, 2013-12-10 10:09:36, -64,       91, (not associated) ,
+A4:C3:61:0F:86:D7, 2013-12-10 09:11:16, 2013-12-10 10:11:55, -92,       31, (not associated) ,
+94:D7:71:E7:04:7D, 2013-12-10 00:31:31, 2013-12-10 10:13:16, -94,        5, 00:11:50:5B:4C:85,
+20:C9:D0:44:E9:A1, 2013-12-10 10:13:25, 2013-12-10 10:13:25, -94,        3, (not associated) , K8399,Free WiFi NYC,blueberries
+28:CF:E9:57:46:0B, 2013-12-10 10:14:06, 2013-12-10 10:14:06, -92,        1, (not associated) ,
+10:93:E9:34:1D:E4, 2013-12-10 06:42:03, 2013-12-10 10:14:16,  -1,        8, 00:11:50:5B:4C:85,
+28:CF:E9:51:66:AD, 2013-12-10 10:19:13, 2013-12-10 10:19:35, -92,        3, (not associated) , YelpCorp
+10:0B:A9:84:F6:88, 2013-12-10 10:21:02, 2013-12-10 10:21:47,  -1,       29, 20:C9:D0:24:DF:9B,
+58:1F:AA:C0:CD:6D, 2013-12-10 10:16:37, 2013-12-10 10:23:08, -84,       39, (not associated) , Kyo,linksys4,B436,D-Link_DIR-600M,roborobo5e,LongmanSchools,lwdaysinn-FO,bjsemia,ZLYY-HIS,hp
+90:72:40:8A:2F:AF, 2013-12-10 10:27:15, 2013-12-10 10:27:15, -94,        1, (not associated) ,
+7C:C3:A1:A6:21:8A, 2013-12-10 10:30:28, 2013-12-10 10:31:26, -92,        3, (not associated) , Pandamonium Palace
+10:68:3F:81:64:64, 2013-12-10 10:32:08, 2013-12-10 10:32:08, -96,        3, (not associated) , Spotify-Guests,matplaneta,CafeVintage
+1C:99:4C:43:64:8A, 2013-12-10 09:43:11, 2013-12-10 10:33:39, -94,        6, (not associated) ,
+E4:CE:8F:1A:22:E2, 2013-12-10 09:51:12, 2013-12-10 10:36:58, -76,       34, D8:C7:C8:A9:ED:A1, SEATAC-FREE-WIFI,newschoolnet ,flypdx,jrow,TELUS0624,AmtrakConnectCascades,PSAV_Event_Solutions,hhonors,SFO-WiFi,dlink
+00:80:48:67:59:9A, 2013-12-10 09:32:07, 2013-12-10 10:37:17, -96,        4, (not associated) , strawberry
+E4:25:E7:4E:8A:3E, 2013-12-10 09:15:14, 2013-12-10 10:42:35, -96,       11, (not associated) ,
+64:A3:CB:4E:79:F1, 2013-12-10 10:42:56, 2013-12-10 10:42:56, -92,        1, (not associated) ,
+14:10:9F:D2:D6:9F, 2013-12-10 09:46:23, 2013-12-10 10:45:26, -94,       14, (not associated) , Jessica,DVW3201B44,Carlos,TG862G52,TRENDnet652,linksys,topgun,wifiaruba,iPhone Pamela
+90:27:E4:F1:AD:B5, 2013-12-10 10:45:48, 2013-12-10 10:45:48, -90,        1, (not associated) ,
+18:9E:FC:D6:64:93, 2013-12-10 10:45:35, 2013-12-10 10:46:27, -90,        3, (not associated) ,
+00:BB:3A:DB:86:B8, 2013-12-10 10:50:39, 2013-12-10 10:50:39, -94,        1, 00:20:A6:F0:AF:0A,
+D0:23:DB:9E:EA:6D, 2013-12-10 09:38:39, 2013-12-10 10:51:29, -88,       48, (not associated) , newschool-guest,newschoolnet 
+40:0E:85:34:42:50, 2013-12-10 10:51:39, 2013-12-10 10:51:39, -92,        1, (not associated) ,
+E0:C9:7A:55:DA:B9, 2013-12-10 10:52:26, 2013-12-10 10:52:28, -94,        2, (not associated) ,
+5C:0A:5B:4E:93:96, 2013-12-10 10:19:24, 2013-12-10 10:53:38, -92,        3, (not associated) ,
+B8:E8:56:C2:01:B0, 2013-12-10 10:52:05, 2013-12-10 10:55:06, -96,        2, C8:F9:F9:28:2A:80,
+00:23:6C:81:C1:38, 2013-12-10 10:56:26, 2013-12-10 10:56:26, -86,        2, (not associated) , newschoolnet 
+24:AB:81:D4:80:AD, 2013-12-10 10:21:55, 2013-12-10 11:02:57, -76,       47, 20:C9:D0:24:DF:9B, Def6-N
+28:CF:DA:E6:91:24, 2013-12-10 09:58:55, 2013-12-10 11:07:56, -94,        2, (not associated) ,
+A8:16:B2:99:A6:DA, 2013-12-10 10:53:26, 2013-12-10 11:09:46, -86,        3, (not associated) ,
+10:40:F3:60:B8:B3, 2013-12-10 11:13:07, 2013-12-10 11:13:07, -84,        1, (not associated) ,
+90:72:40:93:DF:2A, 2013-12-10 08:41:29, 2013-12-10 11:14:28, -86,      190, (not associated) ,
+FC:25:3F:08:E2:93, 2013-12-10 09:16:46, 2013-12-10 11:15:28, -78,       68, (not associated) , newschoolnet 
+AC:FD:EC:4E:18:AD, 2013-12-10 08:50:26, 2013-12-10 11:15:28, -78,      141, (not associated) ,
+E0:C9:7A:7E:73:5B, 2013-12-10 11:23:07, 2013-12-10 11:23:07, -88,        1, (not associated) ,
+A8:88:08:A6:E4:A1, 2013-12-10 11:23:36, 2013-12-10 11:23:36, -94,        1, (not associated) ,
+8C:2D:AA:38:C5:A1, 2013-12-10 01:27:31, 2013-12-10 11:29:26, -92,       14, (not associated) , newschoolnet
+88:32:9B:ED:1C:B3, 2013-12-10 11:29:59, 2013-12-10 11:30:18, -90,        2, (not associated) ,
+02:5A:64:71:27:B0, 2013-12-10 11:13:53, 2013-12-10 11:33:09, -78,      229, 00:25:00:FF:94:73,
+34:23:BA:3E:92:A7, 2013-12-10 11:33:19, 2013-12-10 11:33:19, -94,        1, (not associated) , newschoolnet 
+A8:BB:CF:22:37:90, 2013-12-10 11:12:45, 2013-12-10 11:35:28, -82,        8, (not associated) , Hotel Rivington 1
+00:30:4F:8E:2D:27, 2013-12-10 11:33:42, 2013-12-10 11:37:09, -58,        9, (not associated) ,
+AC:FD:EC:84:D4:46, 2013-12-10 09:56:14, 2013-12-10 11:39:36, -90,        4, (not associated) ,
+84:38:35:43:32:64, 2013-12-10 11:42:18, 2013-12-10 11:42:19, -74,       28, (not associated) , dd-wrt_vap,RicaRica2,CaffeBene,RosGuest,MYHOME,XSB_Guest,newschoolnet ,1014Maple,DVW3201B00,xfinitywifi
+64:A3:CB:3B:2A:D6, 2013-12-10 11:43:27, 2013-12-10 11:43:27, -92,        2, 2A:A4:3C:09:F9:8E,
+C8:6F:1D:C0:BB:DA, 2013-12-10 11:32:29, 2013-12-10 11:44:27, -92,       16, (not associated) ,
+28:CF:E9:19:4C:05, 2013-12-10 10:09:55, 2013-12-10 11:46:05, -58,       39, (not associated) , newschoolnet.,newschoolnet ,Cosi,PANERA,Potbelly WiFi,203_imac1,Melis&Idil-konuk,nyuguest,nyupda,newschool-housing
+84:38:35:4C:2A:B8, 2013-12-10 11:42:10, 2013-12-10 11:50:58, -92,       59, 00:23:6C:BF:7A:C7,
+70:56:81:B8:20:F9, 2013-12-10 11:55:07, 2013-12-10 11:55:07, -80,        1, (not associated) , AppleWiFiSecure
+00:88:65:DD:B1:8B, 2013-12-10 11:37:56, 2013-12-10 11:59:36, -82,        3, (not associated) ,
+04:0C:CE:DB:04:68, 2013-12-10 11:44:49, 2013-12-10 12:00:07, -76,       95, (not associated) , Zoetry 23,Zoetry-Amaya,newschoolnet ,Web-Kong WiFi Management,lfcnyc2011-guest,Rose,S4QF3,linksys,HS1002,Paragraph Workspace
+90:18:7C:86:50:97, 2013-12-10 11:49:22, 2013-12-10 12:00:45, -90,       11, (not associated) ,
+20:C9:D0:78:27:45, 2013-12-10 12:02:06, 2013-12-10 12:02:06, -82,        1, (not associated) , Sony-Music-WIFI
+40:0E:85:73:AD:9E, 2013-12-10 09:54:03, 2013-12-10 12:02:46, -86,        4, (not associated) , newschoolnet 
+B8:17:C2:28:2F:F9, 2013-12-10 10:37:10, 2013-12-10 12:05:15, -90,       59, (not associated) , newschoolnet 
+28:CF:DA:DD:B5:F0, 2013-12-10 12:07:00, 2013-12-10 12:08:07, -92,        6, D8:C7:C8:A9:ED:A1, dlink,attwifi,paul21,newschoolnet 
+70:56:81:98:F9:87, 2013-12-10 11:33:20, 2013-12-10 12:08:17, -76,       49, (not associated) , newschoolnet ,Poppinet,jalajo,Apple Store,tmobile,TheGrand,CasaChap,dixienet,Education Center,nyu
+10:40:F3:8D:3C:3C, 2013-12-10 12:07:56, 2013-12-10 12:09:28, -76,        6, (not associated) , newschoolnet 
+60:45:BD:DA:56:CE, 2013-12-10 09:19:17, 2013-12-10 12:10:17, -92,      449, 02:20:A6:F0:AF:0A,
+74:E2:F5:35:38:86, 2013-12-10 08:57:45, 2013-12-10 12:10:36, -90,       20, (not associated) , newschool
+38:48:4C:AC:82:A4, 2013-12-10 07:57:31, 2013-12-10 12:11:09, -86,      143, D8:C7:C8:A9:ED:A0, newschool
+54:26:96:DD:29:33, 2013-12-10 12:20:38, 2013-12-10 12:20:38, -92,        1, (not associated) ,
+5C:96:9D:AA:32:41, 2013-12-10 12:11:11, 2013-12-10 12:21:55, -78,        4, (not associated) , newschoolnet 
+E0:F8:47:35:B5:88, 2013-12-10 10:13:50, 2013-12-10 12:22:28, -84,        3, (not associated) , s3i
+CC:3A:61:65:0B:36, 2013-12-10 11:49:05, 2013-12-10 12:22:46, -74,       49, (not associated) , newschoolnet 
+E4:8B:7F:6E:23:6C, 2013-12-10 12:23:16, 2013-12-10 12:23:36, -92,        3, (not associated) ,
+14:8F:C6:56:9C:B7, 2013-12-10 10:08:23, 2013-12-10 12:24:48, -90,      107, 5C:96:9D:6B:29:81, TransD's Wi-Fi Network
+54:E4:3A:A0:12:A8, 2013-12-10 09:38:16, 2013-12-10 12:26:29, -92,       35, 00:24:6C:A8:AD:51, newschoolnet 
+1C:B0:94:7E:91:7A, 2013-12-10 12:02:40, 2013-12-10 12:26:39, -88,        3, (not associated) ,
+74:E2:F5:88:02:FF, 2013-12-10 09:28:27, 2013-12-10 12:26:45, -82,       97, (not associated) , krissytone
+40:0E:85:71:BE:61, 2013-12-10 10:07:40, 2013-12-10 12:27:45, -80,      200, (not associated) , newschoolnet 
+B8:E8:56:01:6A:9A, 2013-12-10 12:28:08, 2013-12-10 12:28:09, -80,       15, (not associated) , JJB1112,MiFi4620L Jetpack 1FCE Secure,magicgarden,ShinyEagle,gogoinflight,CenturyLink4365,attwifi,newschoolnet
+18:AF:61:01:D4:A4, 2013-12-10 10:28:48, 2013-12-10 12:28:36, -84,       54, D8:C7:C8:A9:ED:A1, newschoolnet 
+7C:11:BE:A0:9A:09, 2013-12-10 10:08:19, 2013-12-10 12:31:55, -86,      487, (not associated) , fiberone-guest,gt3229,EATALYNYGUEST,HADAR Network,BestBuy,HP75N,apartment 209-1,stc's Network,elementlobby,SWEETNVICIOUSMUSIC
+70:56:81:8C:A7:A9, 2013-12-10 10:56:44, 2013-12-10 12:32:19, -86,    12623, 20:C9:D0:29:11:3B, CBwestwing,Sony-Music-WIFI,TallSpruce-guest,dlink,WangDang,CBAudio,LaQuinta_5_FL,newschoolnet,2WIRE851,linksys
+04:DB:56:21:BA:BF, 2013-12-10 12:32:57, 2013-12-10 12:32:57, -80,        1, (not associated) ,
+68:A8:6D:84:A4:31, 2013-12-10 09:30:28, 2013-12-10 12:35:58, -127,       79, 20:C9:D0:29:11:3B, Def6-N
+20:C9:D0:5D:58:6D, 2013-12-10 10:26:32, 2013-12-10 12:41:38,  -1,       27, 02:20:A6:F0:AF:0A,
+AC:F7:F3:E2:0A:B8, 2013-12-10 12:41:18, 2013-12-10 12:43:16, -94,        3, (not associated) , newschoolnet 
+28:CF:DA:F0:9C:3E, 2013-12-10 10:44:57, 2013-12-10 12:43:47, -94,        7, (not associated) , cloudbreak,G8SNQ,KOK303,qualityrtr,Buck,SBG6580DF
+60:FE:C5:A4:F4:6C, 2013-12-10 11:49:34, 2013-12-10 12:51:58, -86,        6, (not associated) ,
+78:A3:E4:22:62:F9, 2013-12-10 11:44:58, 2013-12-10 12:52:25, -92,        3, (not associated) ,
+04:E5:36:19:F4:51, 2013-12-10 09:58:29, 2013-12-10 12:53:15, -90,       53, (not associated) ,
+90:21:55:CF:07:25, 2013-12-10 12:54:38, 2013-12-10 12:54:38, -90,        1, (not associated) , knewton-emp
+B4:F0:AB:E1:64:46, 2013-12-10 12:55:05, 2013-12-10 12:55:05, -92,        1, (not associated) , VictoriasSecret
+88:32:9B:1E:00:D2, 2013-12-10 09:57:24, 2013-12-10 12:55:45, -94,      193, 02:20:A6:F0:AF:0A,
+F8:1E:DF:DF:FD:50, 2013-12-10 09:03:07, 2013-12-10 12:57:07, -94,        8, (not associated) , AppleWiFiSecure,VWG8P
+10:40:F3:83:90:50, 2013-12-10 11:30:18, 2013-12-10 12:57:48, -64,       16, (not associated) , The Whalers Inn WiFi,Bowler,newschoolnet,TeaLounge G,farmers,WAINSCOTT,attwifi,damselindistress,AmtrakConnect,newschoolnet 
+68:9C:70:DA:E9:16, 2013-12-10 12:59:11, 2013-12-10 12:59:56,  -1,       57, D8:C7:C8:A9:ED:A1,
+18:34:51:AF:B4:4D, 2013-12-10 12:29:15, 2013-12-10 13:00:58, -94,       42, (not associated) ,
+8C:58:77:42:48:8F, 2013-12-10 13:06:05, 2013-12-10 13:06:05, -92,        1, (not associated) ,
+00:27:10:08:F2:70, 2013-12-10 10:09:23, 2013-12-10 13:07:49, -90,       18, (not associated) ,
+E4:8B:7F:E2:1C:0F, 2013-12-10 12:20:21, 2013-12-10 13:08:48, -88,       13, (not associated) ,
+1C:E6:2B:02:AA:45, 2013-12-10 09:59:37, 2013-12-10 13:14:55, -88,       10, (not associated) ,
+40:30:04:F3:96:B1, 2013-12-10 12:19:24, 2013-12-10 13:16:38, -82,      313, 5C:96:9D:6B:29:81, TransD's Wi-Fi Network,newschool
+20:02:AF:64:27:90, 2013-12-10 10:04:51, 2013-12-10 13:17:28, -94,      142, 20:C9:D0:24:DF:9B, Def6-N
+68:A8:6D:24:DE:8C, 2013-12-10 12:17:03, 2013-12-10 13:17:37, -88,        2, (not associated) ,
+20:C9:D0:B2:1D:C3, 2013-12-10 13:18:19, 2013-12-10 13:18:57, -80,        3, (not associated) , attwifi,DCLC1
+00:23:6C:7F:48:B0, 2013-12-10 07:45:57, 2013-12-10 13:22:05, -88,       68, (not associated) , Apple Demo,miniGR,Le Pain Quotidien,roomlinx,bulldog,hhonors,Four_Seasons_Wifi,ViceroyWireless,bowsers castle-guest,attwifi
+90:4C:E5:68:FB:08, 2013-12-10 10:54:06, 2013-12-10 13:23:17, -90,        4, (not associated) ,
+60:C5:47:B9:02:F7, 2013-12-10 10:16:53, 2013-12-10 13:26:39, -92,       22, D8:C7:C8:A9:ED:A1, newschoolnet ,perfectionsalon,BCC,HOTSPOT,#SFO FREE WIFI,Hotel Avante,ZUCKERS GUEST
+C8:33:4B:2C:04:B7, 2013-12-10 13:20:51, 2013-12-10 13:30:36, -92,        2, (not associated) ,
+04:FE:31:78:CA:A4, 2013-12-10 13:30:24, 2013-12-10 13:32:26, -90,        6, (not associated) , newschoolnet 
+24:C6:96:39:9B:BC, 2013-12-10 12:57:22, 2013-12-10 13:33:05, -60,       12, (not associated) ,
+8C:58:77:A5:4D:23, 2013-12-10 13:34:16, 2013-12-10 13:34:16, -88,        2, (not associated) ,
+28:CF:DA:F0:4C:C0, 2013-12-10 13:34:21, 2013-12-10 13:34:26, -92,        3, (not associated) , INTERNET IN MOTION 000F1,Yankee - 00091,The Bodega
+88:53:95:6B:B8:53, 2013-12-10 12:16:30, 2013-12-10 13:34:45, -92,       18, (not associated) ,
+20:C9:D0:CD:C2:E9, 2013-12-10 09:22:21, 2013-12-10 13:35:47, -74,       66, D8:C7:C8:A9:ED:A1, FET Wi-Fi,icampus,lee-global,default,Eslite_Cafe_2F,WIFLY Starbucks,WIFLY Ikari,3Com,newschoolnet ,CHT Wi-Fi(HiNet)
+1C:4B:D6:CF:8A:FA, 2013-12-10 13:37:19, 2013-12-10 13:37:19, -90,        2, 00:24:6C:A8:AD:50,
+58:67:1A:92:CA:A2, 2013-12-10 13:39:37, 2013-12-10 13:39:37, -76,        7, (not associated) , attwifibn
+20:C9:D0:BA:9B:BD, 2013-12-10 12:54:01, 2013-12-10 13:39:45, -74,       21, (not associated) , Bolt Bus,nyuguest,newschoolnet ,MBR1200-ecf,MIT GUEST,WholeFoodsMarket,Housing Works Bookstore,AmoyCoutureHair,The Bean,Dagobah
+E0:F8:47:17:FF:38, 2013-12-10 12:53:30, 2013-12-10 13:40:06, -62,       58, D8:C7:C8:A9:ED:A1, Student,WIFI-AIRPORT,HUBTELECOM,InterContinental - B-Zone,B-Zone,012WIRELESS_BEN_GURION_AIRPORT,IMLAUER 10,Imlauer 11,newschoolnet ,SMAG
+DC:86:D8:CB:81:25, 2013-12-10 13:40:25, 2013-12-10 13:40:25, -92,        1, (not associated) ,
+F8:27:93:3B:F6:9C, 2013-12-10 10:50:08, 2013-12-10 13:43:58,  -1,       53, 02:20:A6:F0:AF:0A,
+E4:CE:8F:06:16:14, 2013-12-10 11:16:38, 2013-12-10 13:44:27, -88,      189, 5C:96:9D:6B:29:81, cat,bluebirdsky,NYPL,belkin54g,newschoolnet,GROUND CONTROL,TransD's Wi-Fi Network,Academy - 6005,889,Strav54
+A4:DB:30:09:C0:8D, 2013-12-10 13:44:45, 2013-12-10 13:44:45, -92,        1, (not associated) , newschoolnet 
+E0:F8:47:16:D5:68, 2013-12-10 08:30:39, 2013-12-10 13:45:16, -90,       24, (not associated) , 32AOA,Strib1st - Front,attwifi,Verizon DROID BIONIC 9211,druida,druidia,babycats,Belkin!,Canvas 2.1,ShyCat-guest
+00:C6:10:4C:DD:82, 2013-12-10 12:16:04, 2013-12-10 13:45:38, -88,       24, D8:C7:C8:A9:ED:A0, HRC Guest Cooper,SBG6580D3,cooper2,Skype WiFi,ASUS_Guest1,FRANKLIN HOTEL_EXT,newschool
+B8:8D:12:10:5E:D0, 2013-12-10 13:45:43, 2013-12-10 13:47:16, -90,        3, (not associated) , newschool
+B8:F6:B1:1C:A2:4F, 2013-12-10 11:43:35, 2013-12-10 13:48:05, -92,        5, (not associated) , Boingo Hotspot,MOVISTAR WIFI,Goesh
+B0:9F:BA:3F:89:10, 2013-12-10 12:28:26, 2013-12-10 13:48:08, -92,    13908, 44:33:4C:6C:1A:64, newschool,__D12__1nt3rn3t__
+10:40:F3:0A:CF:0F, 2013-12-10 13:48:36, 2013-12-10 13:49:59, -94,        6, (not associated) ,
+10:9A:DD:AB:BE:2E, 2013-12-10 11:56:05, 2013-12-10 13:49:56, -86,       11, D8:C7:C8:A9:ED:A1,
+EC:35:86:15:71:A6, 2013-12-10 13:41:15, 2013-12-10 13:50:27, -82,       16, (not associated) ,
+00:26:BB:DB:D3:E6, 2013-12-10 13:51:25, 2013-12-10 13:51:25, -92,        1, (not associated) ,
+00:EB:2D:1C:4C:EC, 2013-12-10 13:51:45, 2013-12-10 13:51:45, -90,        2, (not associated) ,
+10:40:F3:95:51:26, 2013-12-10 12:51:34, 2013-12-10 13:54:18, -70,       36, D8:C7:C8:A9:ED:A1, 1476,2BZ48,YMCA MV Teen Center UP,Peter Pan Free WiFi,newschoolnet ,Wolozin,Wolozin1,RAYMAR,linksys,WLCM
+0E:E5:B0:70:4E:48, 2013-12-10 13:55:42, 2013-12-10 13:55:45, -80,       14, 00:25:00:FF:94:73,
+E4:98:D6:2B:3F:0A, 2013-12-10 09:59:31, 2013-12-10 13:57:09, -90,       19, (not associated) ,
+B8:E8:56:38:31:A0, 2013-12-10 11:54:33, 2013-12-10 13:57:17, -78,       65, D8:C7:C8:A9:ED:A1, VictoriasSecret,newschoolnet ,newschoolnet.,02D2,cave,orobakerybar
+18:E7:F4:D6:F4:FC, 2013-12-10 13:58:47, 2013-12-10 13:58:47, -94,        3, (not associated) , El Carmelo,Claro39686B,101
+C8:E0:EB:CC:1D:A8, 2013-12-10 08:51:18, 2013-12-10 13:58:56, -92,        5, D8:C7:C8:A9:ED:A1, newschoolnet 
+B8:F6:B1:19:BA:B7, 2013-12-10 08:19:25, 2013-12-10 13:59:27, -72,      658, D8:C7:C8:A9:ED:A1, TWCWiFi,JeffGuest,monikernet-guest,newschoolnet,ciscosb,attwifi,Transpack,1084 Kennedy Blvd,Hyatt,RouterDriscoll
+14:10:9F:E5:C2:2D, 2013-12-10 13:59:54, 2013-12-10 13:59:55, -94,       35, (not associated) , TP-LINK_6F5B06,theorchid-private-upstairs,orangehotel-new,TP-LINK_D664E0,orangehotel public,apple_1139,502dlink,Tenda_183010,Tenda_329460,Bibini Nice-cream
+10:40:F3:42:AA:4C, 2013-12-10 14:00:02, 2013-12-10 14:00:07, -84,        3, (not associated) ,
+70:11:24:34:A5:DD, 2013-12-10 14:00:37, 2013-12-10 14:00:37, -94,        1, (not associated) , newschoolnet 
+22:71:6A:A8:DC:8C, 2013-12-10 13:38:43, 2013-12-10 14:00:56, -88,     1516, 00:25:00:FF:94:73,
+6C:3E:6D:92:C3:D9, 2013-12-10 14:00:58, 2013-12-10 14:00:58, -82,        1, (not associated) ,
+28:CF:E9:15:B9:B5, 2013-12-10 14:01:58, 2013-12-10 14:01:58, -88,        2, (not associated) ,
+CE:E1:A6:63:0B:5E, 2013-12-10 14:01:46, 2013-12-10 14:02:17, -90,       19, 00:25:00:FF:94:73,
+78:CA:39:B1:E0:A6, 2013-12-10 14:02:33, 2013-12-10 14:03:35, -70,        3, (not associated) ,
+EC:85:2F:CE:D4:1B, 2013-12-10 14:05:26, 2013-12-10 14:05:57, -78,       16, (not associated) ,
+C8:E0:EB:C8:3B:16, 2013-12-10 14:07:54, 2013-12-10 14:07:57, -76,        4, (not associated) , sbmc
+40:F3:08:AB:78:FB, 2013-12-10 13:03:44, 2013-12-10 14:10:35, -86,        6, (not associated) , newschoolnet 
+78:CA:39:BD:1E:F4, 2013-12-10 12:14:23, 2013-12-10 14:12:47, -90,     2207, D8:C7:C8:A9:ED:A1, newschoolnet 
+FC:25:3F:81:83:C9, 2013-12-10 08:24:33, 2013-12-10 14:12:57,  -1,      338, 02:20:A6:F0:AF:0A,
+84:38:35:5A:4E:96, 2013-12-10 14:05:37, 2013-12-10 14:13:36, -74,       23, D8:C7:C8:A9:ED:A1, Am4zing,Apple Store,captains quarters 7,Bolt Bus,newschoolnet,CleverWhale-guest,newschoolnet ,BPLUNWIRED
+14:10:9F:CF:2F:73, 2013-12-10 00:18:56, 2013-12-10 14:13:59, -80,       28, (not associated) , newschoolnet ,SAPIDO_GR-1733_cc87df,25RFL,NibbleNet,CaffeBene_DiGiFi,Sumida-Aquarium,sunmembers
+D8:9E:3F:6A:5D:1C, 2013-12-10 12:14:43, 2013-12-10 14:14:49, -68,       26, (not associated) ,
+E0:F8:47:27:AB:4E, 2013-12-10 04:05:17, 2013-12-10 14:15:35, -84,       19, 2A:A4:3C:09:F9:8E, Technologix,Le Pain Quotidien,G-Access,Canvas 2.1,GA-Guest,TH5X8,cinar,dlink
+70:18:8B:CE:71:FB, 2013-12-10 12:53:05, 2013-12-10 14:15:55, -92,        5, (not associated) ,
+30:F7:C5:73:45:72, 2013-12-10 14:16:06, 2013-12-10 14:16:06, -90,        1, (not associated) ,
+08:11:96:AA:02:BC, 2013-12-10 13:30:24, 2013-12-10 14:19:57, -92,        3, (not associated) , AdaCorePublic
+14:5A:05:75:32:4B, 2013-12-10 14:20:09, 2013-12-10 14:20:09, -90,        1, (not associated) ,
+A4:D1:D2:4B:B4:F6, 2013-12-10 14:16:25, 2013-12-10 14:20:49, -80,        7, (not associated) ,
+F8:27:93:78:9F:BF, 2013-12-10 14:16:19, 2013-12-10 14:20:57, -82,        8, (not associated) ,
+B8:76:3F:83:40:35, 2013-12-10 14:21:15, 2013-12-10 14:21:15, -94,        1, (not associated) ,
+54:26:96:38:46:94, 2013-12-10 14:21:40, 2013-12-10 14:22:16,  -1,      147, 20:C9:D0:24:DF:9B,
+C4:43:8F:C9:3E:66, 2013-12-10 14:03:11, 2013-12-10 14:22:35, -90,      352, (not associated) , Apartment A4,Am4zing,newschoolnet,OIS
+A4:D1:D2:91:92:B3, 2013-12-10 08:51:36, 2013-12-10 14:22:39,  -1,        3, 00:25:9C:67:47:75,
+00:23:6C:8E:CE:F3, 2013-12-10 07:06:40, 2013-12-10 14:26:26, -92,       27, 00:11:50:5B:4C:85,
+18:34:51:30:A9:7A, 2013-12-10 14:22:01, 2013-12-10 14:26:49, -92,     4532, D8:C7:C8:A9:ED:A1, newschoolnet 
+80:96:B1:74:73:C8, 2013-12-10 08:37:46, 2013-12-10 14:26:55, -94,       88, 02:20:A6:F0:AF:0A,
+00:23:12:55:73:B9, 2013-12-10 13:23:13, 2013-12-10 14:26:55, -92,       64, D8:C7:C8:A9:ED:A1, WUSM-guest,newschoolnet ,nyupda,nw,newschoolnet,DDW36119E,Pratt Institute,linksys,E1000-guest,BJCguest
+7C:D1:C3:E1:DA:45, 2013-12-10 13:34:50, 2013-12-10 14:27:07, -58,       33, (not associated) , SBG658040,WiNot,gogoinflight,El Beit,newschoolnet ,U10C022D6,TP-LINK_DE4BB4,Torio BH B5,berry-invitado,nyuguest
+C8:AA:21:90:79:29, 2013-12-10 10:35:28, 2013-12-10 14:27:48, -92,        2, (not associated) , 437 33 church
+88:1F:A1:10:13:B8, 2013-12-10 14:08:57, 2013-12-10 14:31:19, -56,       79, (not associated) , newschoolnet,Pret29,RUWireless,yvonne2011,ImAfraid,.FREEWiFiGOWEX,WEBbeams-Argo Tea,ABoland Office-guest,YOUTH,NYunderdog
+BA:CE:96:ED:80:0D, 2013-12-10 10:38:45, 2013-12-10 14:31:28, -80,      199, 00:25:00:FF:94:73,
+CC:3A:61:28:99:A6, 2013-12-10 08:48:42, 2013-12-10 14:32:18, -94,    31159, 00:13:10:64:BB:2B, hyper,dd-wrt
+00:21:47:00:AE:66, 2013-12-10 01:03:49, 2013-12-10 14:32:16, -90,      882, 20:C9:D0:24:DF:9B, Def6-N
+B8:F6:B1:1B:C3:71, 2013-12-10 12:31:57, 2013-12-10 14:32:45, -88,       29, (not associated) , HG520s,McDonald's,CITIC_TELECOM,Apple_Service,TP-LINK,TP-LINK_410522,dlink,ChinaNet-SUuR,XinXin,newschoolnet 
+8C:00:6D:5E:ED:61, 2013-12-10 13:15:46, 2013-12-10 14:34:37, -94,       18, (not associated) ,
+C8:BC:C8:EA:20:9F, 2013-12-10 11:09:37, 2013-12-10 14:37:49, -92,       13, (not associated) , s3i
+02:7C:75:BF:25:FD, 2013-12-10 14:02:42, 2013-12-10 14:39:07, -80,       22, 00:25:00:FF:94:73,
+58:1F:AA:3C:A6:D1, 2013-12-10 10:02:51, 2013-12-10 14:40:48, -90,       33, 20:C9:D0:23:5B:F9, Def6-N
+40:0E:85:73:43:7B, 2013-12-10 13:16:27, 2013-12-10 14:40:55, -84,        2, (not associated) ,
+A8:BB:CF:11:00:C6, 2013-12-10 14:41:58, 2013-12-10 14:41:58, -90,        1, (not associated) ,
+00:26:C6:DD:C3:88, 2013-12-10 14:44:25, 2013-12-10 14:44:25, -94,        1, (not associated) ,
+64:20:0C:ED:A8:0C, 2013-12-10 14:44:29, 2013-12-10 14:44:29, -88,        1, (not associated) , Visions1234567
+F0:B4:79:16:EF:C8, 2013-12-10 03:41:22, 2013-12-10 14:44:27, -78,    46999, D8:C7:C8:A9:ED:A1, Guest Internet Access,attwifi,HappyFamily,rohan-guest,spiti mou,frame-guest,HappyPuppy-guest,HMapt,UEC TOEFL-guest,vguest
+D8:D1:CB:87:2C:9B, 2013-12-10 09:43:11, 2013-12-10 14:45:27, -80,       11, 20:C9:D0:24:DF:9B, Def6-N
+BC:3B:AF:3F:63:C1, 2013-12-10 14:34:21, 2013-12-10 14:46:27, -94,        3, (not associated) , newschool
+70:11:24:4C:85:9F, 2013-12-10 12:28:30, 2013-12-10 14:46:29, -92,       10, C8:F9:F9:89:B2:9F,
+72:50:40:E5:FA:9B, 2013-12-10 14:47:05, 2013-12-10 14:47:05, -86,        1, (not associated) ,
+60:33:4B:0E:85:FB, 2013-12-10 12:00:11, 2013-12-10 14:47:29, -86,       41, (not associated) , BeachBocks,parcvisitor,sumadre,SoFun,Belkin.3712,sjcfreewifi,AWG-WiFi,Boingo Hotspot,Eliza-Lodge,3663 Lone Dove Lane
+38:AA:3C:8C:B2:C4, 2013-12-10 14:47:38, 2013-12-10 14:47:38, -92,        1, (not associated) , newschoolnet 
+04:0C:CE:93:15:EA, 2013-12-10 12:31:45, 2013-12-10 14:47:49, -80,       78, (not associated) ,
+6C:3E:6D:4D:7F:E8, 2013-12-10 11:49:23, 2013-12-10 14:48:19, -76,       86, (not associated) ,
+CC:3A:61:58:2D:49, 2013-12-10 09:17:45, 2013-12-10 14:48:38, -86,      386, 02:20:A6:F0:AF:0A,
+D8:D1:CB:6B:E0:33, 2013-12-10 13:57:22, 2013-12-10 14:49:26, -80,       12, (not associated) ,
+28:CF:E9:20:D1:4F, 2013-12-10 12:06:55, 2013-12-10 14:50:05, -84,       64, (not associated) , nyupda,newschool-guest,Club45,Li Wen Chang,Cisco35328,liwenchang,hgrockss,DDW3611B5,nyuguest,NYU-ROAM3
+00:80:48:5E:5C:CB, 2013-12-10 14:50:27, 2013-12-10 14:50:27, -94,        1, (not associated) ,
+68:A8:6D:04:EF:98, 2013-12-10 11:48:36, 2013-12-10 14:50:36, -90,     8983, 44:33:4C:6C:1A:64, newschoolnet ,planb,BUW.Hotspot.Czytelnia,CrazyMouse,508B88,Underhill,__D12__1nt3rn3t__,ASTER-562347,BUW.Hotspot.PC1,BUW.Hotspot.PC2
+B8:76:3F:83:42:17, 2013-12-10 07:37:38, 2013-12-10 14:50:49, -92,        9, (not associated) ,
+78:A3:E4:6C:AA:AA, 2013-12-10 00:30:04, 2013-12-10 14:51:08, -94,      273, (not associated) ,
+20:C9:D0:BC:00:2F, 2013-12-10 12:36:55, 2013-12-10 14:51:25, -70,       84, (not associated) , newschoolnet,.FREEWiFiGOWEX,little skips,Skippy,Smartynet Guests,newschoolnet ,Kristen's iPhone,VictoriasSecret,Finn_loves_Angie&Pooja,wireless
+60:33:4B:25:3F:86, 2013-12-10 00:23:27, 2013-12-10 14:52:36, -68,       75, D8:C7:C8:A9:ED:A1, NGH1204,Wireless PKU,GANI_WLAN,ruc,OUGuest,newschoolnet ,dlink,RUC,CMCC,Ning_Family
+84:7A:88:09:3E:B7, 2013-12-10 11:42:57, 2013-12-10 14:53:57, -84,       53, (not associated) ,
+B8:E8:56:71:41:AC, 2013-12-10 14:26:42, 2013-12-10 14:54:25, -82,       11, D8:C7:C8:A9:ED:A1, TCguestnet,newschoolnet 
+B8:F6:B1:13:4F:F3, 2013-12-10 12:06:44, 2013-12-10 14:55:47, -74,       20, (not associated) , Boingo Hotspot,AIRTEL_MF29_D987A6,Wireless,AIRTEL_MF29_BCD652,goldpoints,odyl5,raj_kumar
+14:10:9F:E1:B5:D3, 2013-12-10 12:18:55, 2013-12-10 14:56:27, -78,       52, (not associated) , newschool,B4HN9,APARTMENT1R,Wu Tang LAN,NETGEAR-5G-Guest,CYQ22,Pretty Fly for a WiFI 5G,Pretty Fly for a Wifi,genieBox,qt8162
+00:26:BB:04:84:F3, 2013-12-10 14:57:06, 2013-12-10 14:57:07, -80,       21, (not associated) , Airport express,DIRU2,Reebskie,Belkin_N_Wireless_68E464,05B401915282,88orchard,attwifi,HolidayInnWiFi,erica,DieTrustFundersDie
+00:88:65:57:CB:B8, 2013-12-10 13:54:59, 2013-12-10 14:57:27, -78,       70, (not associated) ,
+F0:27:65:94:A4:EB, 2013-12-10 12:04:08, 2013-12-10 14:57:49, -68,      597, (not associated) ,
+F0:27:65:EE:56:D6, 2013-12-10 12:07:15, 2013-12-10 14:58:16, -78,     2200, D8:C7:C8:A9:ED:A0, newschool
+88:53:95:46:CD:B2, 2013-12-10 14:58:35, 2013-12-10 14:58:37, -90,        3, D8:C7:C8:A9:ED:A0,
+44:2A:60:DC:8F:CE, 2013-12-10 13:51:33, 2013-12-10 14:58:46, -90,        8, (not associated) ,
+24:EC:99:D7:3F:80, 2013-12-10 13:46:57, 2013-12-10 14:59:09, -86,    85481, D8:C7:C8:A9:ED:A1, newschoolnet 
+0C:77:1A:12:B9:73, 2013-12-10 12:20:26, 2013-12-10 15:00:35, -84,        5, (not associated) ,
+88:C6:63:B4:8B:53, 2013-12-10 12:08:46, 2013-12-10 15:00:46, -82,      215, D8:C7:C8:A9:ED:A1, Veitch,FreeWiFibyHTCONE,newschoolnet ,Boingo Hotspot,2E53,TRENDnet,Smartynet Guests,CNET,dd-wrt,Maker Faire
+E0:C9:7A:70:9A:6B, 2013-12-10 11:40:09, 2013-12-10 15:00:46, -82,     1726, D8:C7:C8:A9:ED:A0, newschool
+7C:D1:C3:EC:5E:5F, 2013-12-10 12:09:32, 2013-12-10 15:01:07, -80,    14428, D8:C7:C8:A9:ED:A1, spacebrew,westerlow,newschoolnet.,newschoolnet ,metmuseumpublic,TG862G72,Apple Store,danlinksys,spacebrew2.4
+68:09:27:51:C7:16, 2013-12-10 13:03:28, 2013-12-10 15:01:15, -88,      531, D8:C7:C8:A9:ED:A0, newschool
+00:1F:3B:90:3B:9B, 2013-12-10 11:02:51, 2013-12-10 15:01:46, -94,        5, (not associated) , Sony-Music-WIFI
+C4:85:08:36:19:24, 2013-12-10 13:08:39, 2013-12-10 15:01:57, -88,      108, (not associated) , VictoriasSecret,newschoolnet 
+24:77:03:F1:D1:D4, 2013-12-10 15:02:18, 2013-12-10 15:02:18, -92,        1, (not associated) , AdaCorePublic
+C8:6F:1D:1D:6D:62, 2013-12-10 14:28:55, 2013-12-10 15:03:08, -90,        9, (not associated) , newschoolnet 
+3C:D0:F8:11:A2:2A, 2013-12-10 11:42:55, 2013-12-10 15:03:18, -86,     8361, D8:C7:C8:A9:ED:A1, newschoolnet 
+28:CF:E9:49:18:B9, 2013-12-10 00:14:31, 2013-12-10 15:03:15, -76,      160, D8:C7:C8:A9:ED:A1, AmtrakConnectStation,dancemusic4ever,Alvi's Network,Kumar Residence,Celleden_Map1600,QF_Business_Lounge,.FREEWiFiGOWEX,newschoolnet.,newschoolnet ,Bayside-guest
+D8:D1:CB:AF:14:0D, 2013-12-10 13:50:11, 2013-12-10 15:03:29, -94,      585, D8:C7:C8:A9:ED:A0, newschool
+60:C5:47:5B:7C:EB, 2013-12-10 10:09:51, 2013-12-10 15:03:35, -90,    12536, D8:C7:C8:A9:ED:A1, newschoolnet 
+C8:B5:B7:3A:60:48, 2013-12-10 13:57:39, 2013-12-10 15:03:38, -88,        8, (not associated) , newschool
+5C:59:48:59:42:03, 2013-12-10 15:03:32, 2013-12-10 15:03:49, -90,        2, (not associated) ,
+8C:3A:E3:3F:B4:E1, 2013-12-10 13:05:37, 2013-12-10 15:04:05, -88,       36, (not associated) , newschool
+88:1F:A1:A6:26:2D, 2013-12-10 12:42:56, 2013-12-10 15:04:07, -72,       35, D8:C7:C8:A9:ED:A0, newschool
+28:CF:E9:14:BA:6F, 2013-12-10 13:22:32, 2013-12-10 15:04:08, -70,       57, D8:C7:C8:A9:ED:A1, attwifi,iptime,shnetwork,USP Park WiFi,Pret29,WEBbeams-Argo Tea,Ocafe WIFI,newschool-housing,PANERA,BreadsFreeWifi
+3C:43:8E:66:1B:B5, 2013-12-10 10:00:44, 2013-12-10 15:04:28, -94,       10, (not associated) , EA08C6,MN411
+E8:8D:28:D4:81:B8, 2013-12-10 12:49:46, 2013-12-10 15:04:56, -90,      122, D8:C7:C8:A9:ED:A1, hxy,newschoolnet 
+7C:D1:C3:6F:90:DA, 2013-12-10 12:09:05, 2013-12-10 15:05:09, -62,     1506, 44:33:4C:6C:1A:64, newschoolnet ,RANJIT1,Toronto Pearson Wi-Fi,__D12__1nt3rn3t__,PinkFalcon-guest,linksys,attwifi,Boingo Hotspot,NETGEAR71,frag
+B8:E8:56:B1:69:B0, 2013-12-10 11:49:02, 2013-12-10 15:05:27, -84,       24, D8:C7:C8:A9:ED:A0, newschool
+40:30:04:DA:2C:AB, 2013-12-10 10:50:49, 2013-12-10 15:05:28, -84,     7488, 20:C9:D0:29:11:3B, Def6-N
+9C:2A:70:BE:CF:49, 2013-12-10 11:03:09, 2013-12-10 15:05:46, -92,    10015, 00:25:9C:5E:4C:90, CBwestwing
+78:CA:39:B1:3D:6D, 2013-12-10 09:44:27, 2013-12-10 15:05:59, -88,       68, D8:C7:C8:A9:ED:A1, newschoolnet 
+7C:D1:C3:95:4E:DC, 2013-12-10 08:21:58, 2013-12-10 15:06:08, -64,      182, D8:C7:C8:A9:ED:A1, newschoolnet ,dlink-happyfamily,JCPL-CUNNINGHAM,Blis NY Wi-Fi,Free Pubic wifi,NYU-ROAM3,attwifi,SCEMS 705 8-),10FX07022991,belkin.3ea
+CC:3A:61:E4:B8:8E, 2013-12-10 09:58:23, 2013-12-10 15:06:19, -76,      365, D8:C7:C8:A9:ED:A1, newschoolnet 
+F8:1E:DF:EF:39:B3, 2013-12-10 12:31:49, 2013-12-10 15:06:37, -78,      843, 44:33:4C:6C:1A:64, belkin.436.5GHz,Vibromonk2,SBG658040,__D12__1nt3rn3t__,newschoolnet ,@SmartFi,WEBbeams-Argo Tea,HOME-F902,Ad-hoc_Survival,yesyesno
+F0:D1:A9:9F:12:3E, 2013-12-10 11:02:19, 2013-12-10 15:06:48, -127,    24112, 20:C9:D0:29:11:3B, Def6-N
+70:11:24:AC:BD:C3, 2013-12-10 00:22:04, 2013-12-10 15:07:57, -94,      244, D8:C7:C8:A9:ED:A0, newschool,Nicholas Leonardy's Network
+CC:3A:61:2A:87:18, 2013-12-10 15:07:55, 2013-12-10 15:07:55, -94,        1, (not associated) ,
+84:3A:4B:5D:67:84, 2013-12-10 15:08:05, 2013-12-10 15:08:05, -96,        1, (not associated) ,
+60:C5:47:63:C9:2C, 2013-12-10 13:34:26, 2013-12-10 15:08:06, -92,        5, (not associated) ,
+EC:35:86:38:38:AE, 2013-12-10 10:42:23, 2013-12-10 15:08:08, -92,       50, (not associated) , MADMFO_FRONT,MADMFO_BACK,newschoolnet,Jamie Patersonâ..s iPhone,Verizon-291LVW-3F09,cloudbreak,Verizon-291LVW-64B2
+A8:88:08:85:4F:87, 2013-12-10 13:26:29, 2013-12-10 15:08:08, -92,        2, (not associated) ,
+88:1F:A1:76:4A:F8, 2013-12-10 12:26:41, 2013-12-10 15:08:15, -86,      149, D8:C7:C8:A9:ED:A1, newschoolnet 
+80:96:B1:4A:DC:2C, 2013-12-10 15:09:18, 2013-12-10 15:09:18, -88,        4, (not associated) , NETGEAR94,Sony-Music-WIFI,DVW3201BE0,YMCA Member Network
+40:B3:95:73:31:C8, 2013-12-10 15:09:26, 2013-12-10 15:09:26, -90,        1, (not associated) ,
+7C:FA:DF:68:B0:B2, 2013-12-10 10:25:28, 2013-12-10 15:09:29, -84,      151, (not associated) ,
+E4:98:D6:0F:A5:FA, 2013-12-10 11:16:09, 2013-12-10 15:09:45,  -1,      357, 02:20:A6:F0:AF:0A,
+68:A8:6D:B7:6A:EE, 2013-12-10 11:08:22, 2013-12-10 15:10:18, -94,      519, 20:C9:D0:24:DF:9B, Def6-N
+F8:1E:DF:E0:E1:F8, 2013-12-10 14:11:09, 2013-12-10 15:10:26, -72,       62, D8:C7:C8:A9:ED:A1, Kitch WiFi,GALERIE,Abi aad,Digitalinks-BriskCafe,LeoSimba,NaimDSL,Blink366781,ARAMOUNI,urbanista,newschoolnet 
+28:CF:E9:1F:03:03, 2013-12-10 00:29:55, 2013-12-10 15:10:28, -68,      286, D8:C7:C8:A9:ED:A1, Hostelling,YZY,lys,Royal Sonesta,newschoolnet ,hst,XU,Cisco21910,Y2KDragon888,Nuutti
+E4:98:D6:4E:F7:7E, 2013-12-10 15:11:17, 2013-12-10 15:11:17, -84,        1, (not associated) , Def6-N
+B6:DD:C1:D9:39:38, 2013-12-10 12:10:14, 2013-12-10 15:11:37, -92,      688, 00:25:00:FF:94:73,
+00:26:BB:03:76:01, 2013-12-10 11:35:42, 2013-12-10 15:11:38, -66,       90, D8:C7:C8:A9:ED:A0, MORIA,307 wifi,rpi_wpa2,frodo,newschool,newschoolnet 
+8C:70:5A:65:F3:30, 2013-12-10 00:27:25, 2013-12-10 15:12:28, -94,       29, (not associated) ,
+E0:F8:47:AC:09:A0, 2013-12-10 15:02:21, 2013-12-10 15:12:29, -94,        3, (not associated) ,
+60:33:4B:29:71:85, 2013-12-10 09:56:16, 2013-12-10 15:12:36, -76,    12753, 20:C9:D0:24:DF:9B, Def6-N,linksys,beach,BQND2,CBDECK
+6C:71:D9:32:CA:B3, 2013-12-10 13:52:05, 2013-12-10 15:12:47, -92,       69, 00:24:6C:A9:00:71, newschoolnet 
+DA:7B:C8:42:7B:B6, 2013-12-10 11:11:33, 2013-12-10 15:12:58, -90,      391, 00:25:00:FF:94:73,
+60:C5:47:C4:4E:89, 2013-12-10 15:02:54, 2013-12-10 15:13:28, -84,       12, (not associated) , Sarah's Guest Network,Apple Demo
+10:9A:DD:C3:3D:4B, 2013-12-10 00:29:14, 2013-12-10 15:13:28, -78,       16, (not associated) , VictoriasSecret
+04:DB:56:16:3C:8B, 2013-12-10 13:52:56, 2013-12-10 15:14:06, -94,        2, (not associated) , newschool
+0C:84:DC:45:3E:B1, 2013-12-10 12:25:14, 2013-12-10 15:14:07, -62,       11, (not associated) , newschool
+28:CF:DA:EC:E1:B0, 2013-12-10 10:24:02, 2013-12-10 15:14:18, -82,      147, D8:C7:C8:A9:ED:A1, Pan Pa Ya,newschoolnet ,Arboretto,HCB,ETB Gran Estacion,GRAN ESTACION_ETB,Avantel_El Retiro CC,TP-LINK_DB6130,BELLEPOQUE 301-302,BELLEEPOQUE3
+E4:CE:8F:28:9A:0C, 2013-12-10 01:57:29, 2013-12-10 15:14:28, -62,      230, D8:C7:C8:A9:ED:A0, newschoolnet ,RicaRica2,attwifi,danlinksys,newschool-housing,Pret29,pret29,3C2B
+14:10:9F:D5:09:2F, 2013-12-10 13:12:19, 2013-12-10 15:15:25, -74,       21, (not associated) , ncsu-guest,newschoolnet ,TransD's Wi-Fi Network,fido,MoMA WiFi,GA-GUESTS,linksys,06B409937577,Free_Library_Branch,Bolt Bus
+0C:74:C2:71:00:79, 2013-12-10 12:19:14, 2013-12-10 15:15:59, -82,      111, (not associated) , EVERRICH MEETS YOU IN THE AIR,forgood,Boingo Hotspot,#HKAirport Free WiFi,cht2794,ASUS,satLINK,IndieScreen-guest,netgear123,FreeWiFi@KIX
+EC:35:86:AE:1C:12, 2013-12-10 09:18:40, 2013-12-10 15:16:07, -92,       49, (not associated) , napguests
+E4:CE:8F:87:3E:83, 2013-12-10 15:16:06, 2013-12-10 15:16:06, -88,        1, 5C:96:9D:6B:29:81,
+5C:96:9D:72:77:C1, 2013-12-10 14:24:34, 2013-12-10 15:16:29, -90,       28, (not associated) , Lane,LaneWiFi,Lane's Network,Apple Network ea15c9,newschoolnet ,N302-Tech,tannenbaum,Home,Bazinga-guest,Wi-Fi Network
+50:B7:C3:F5:EA:C9, 2013-12-10 08:49:56, 2013-12-10 15:16:46, -92,       76, (not associated) , newschoolnet 
+A8:16:B2:72:6F:67, 2013-12-10 00:11:31, 2013-12-10 15:16:58, -76,    12652, 20:C9:D0:24:DF:9B, z b,mp3,Def6-N
+F0:27:65:92:00:C7, 2013-12-10 09:58:46, 2013-12-10 15:17:09, -88,       12, 02:20:A6:F0:AF:0A,
+B8:76:3F:83:3F:65, 2013-12-10 03:13:19, 2013-12-10 15:17:16, -94,       28, (not associated) ,
+44:2A:60:F6:6D:94, 2013-12-10 09:55:47, 2013-12-10 15:17:16, -84,       58, (not associated) , newschool
+28:CF:E9:1E:55:87, 2013-12-10 12:47:37, 2013-12-10 15:17:18, -76,       56, D8:C7:C8:A9:ED:A1, Kopi Kopi WiFi,WKZBN,newschoolnet ,Teapot,NETGEAR51,2WIRE663,APJNOW 2,Colador1000,Hotel Lincoln,Statehouse
+E0:F8:47:17:00:7C, 2013-12-10 09:24:51, 2013-12-10 15:17:25, -88,       11, 2A:A4:3C:09:F9:8E, Canvas 2.1,GPHWiFi
+90:72:40:A7:97:E8, 2013-12-10 00:10:51, 2013-12-10 15:17:28, -76,      963, D8:C7:C8:A9:ED:A1, newschoolnet 
+9C:B7:0D:7E:7D:80, 2013-12-10 14:36:03, 2013-12-10 15:17:47, -92,        8, (not associated) , cloudbreak
+68:A8:6D:3B:28:FE, 2013-12-10 15:15:33, 2013-12-10 15:17:47, -82,       19, D8:C7:C8:A9:ED:A1, nyu,newschool-guest-on3400,newschoolnet 
+8C:A9:82:A7:29:E6, 2013-12-10 00:11:11, 2013-12-10 15:18:29, -92,      868, 20:C9:D0:29:11:3B, Def6-N
+B8:8D:12:3A:29:E0, 2013-12-10 12:21:17, 2013-12-10 15:18:39, -70,       26, (not associated) , newschoolnet 
+7C:D1:C3:E4:C7:6B, 2013-12-10 09:35:49, 2013-12-10 15:19:18, -70,      178, D8:C7:C8:A9:ED:A1, D2,canyonviewmotel,AMullins,newschoolnet ,NETGEAR,Apple Store,Columbia University,BrooklynCommune,DEN Free WiFi by Boingo,Greyhound
+68:A8:6D:BC:54:FC, 2013-12-10 15:07:18, 2013-12-10 15:19:39, -82,       36, (not associated) ,
+28:CF:DA:DA:23:9E, 2013-12-10 00:12:21, 2013-12-10 15:19:58, -74,     3964, D8:C7:C8:A9:ED:A1, CafeYesterday,newschoolnet ,GED,Philz Coffee,US8YT,Direct-Cafe,Direct-Guest,attwifi,LsCafe,WholeFoodsMarket
+90:27:E4:F2:B0:E5, 2013-12-10 14:57:26, 2013-12-10 15:20:29, -70,       47, (not associated) , Belkin.5322,SCAD_Secure_Wireless,CamelliaQin-guest,SVA WLAN (a/n 5GHz),SVA WLAN (g/n 2.4GHz),HKUSPACE,LevelOne,CITY FREE WIFI,newschoolnet ,SCAD Wireless
+5C:59:48:78:72:EA, 2013-12-10 15:10:27, 2013-12-10 15:20:38, -94,       33, 00:24:6C:A9:00:71, FIRSTCOMM_INTERNET,VAIO Ntwk,WiFiRSU_62,Peter Pan Free WiFi,NETGEAR,maximusdarrel-guest,Cosi,JIVAMUKTEA CAFE,Boingo Hotspot,rocketrouter2
+40:B3:95:D7:10:84, 2013-12-10 12:01:03, 2013-12-10 15:20:38, -84,       98, (not associated) ,
+64:A3:CB:69:E5:DA, 2013-12-10 12:13:07, 2013-12-10 15:20:46, -84,       82, (not associated) ,
+C8:E0:EB:14:E2:21, 2013-12-10 10:39:50, 2013-12-10 15:20:55, -94,      138, D8:C7:C8:A9:ED:A1, HP-Print-0d-LaserJet 200,newschool-community,newschoolnet.,NYU-ROAM3,newschoolnet ,newschool-housing,TWCWiFi,Strip House WiFi,attwifi,CableWiFi
+20:02:AF:56:31:D2, 2013-12-10 09:22:27, 2013-12-10 15:20:59, -92,       25, (not associated) ,
+20:C9:D0:42:AC:29, 2013-12-10 15:21:18, 2013-12-10 15:21:19, -90,       31, (not associated) , Saturn,Mars Rover,#SFO FREE WIFI,DDW36111B,CSINY,Pret29,Apple Store,nyu,newschool-community,newschoolnet 
+E0:F8:47:15:34:98, 2013-12-10 14:32:12, 2013-12-10 15:21:16, -82,       87, D8:C7:C8:A9:ED:A1, newschoolnet ,SimaoWireless,fasanorj,jonny mac's shiznit,THE WAREHOUSE CAFE,TWCWiFi,newschoolnet,DEBGUEST,TekAir,11FX08176812
+BC:3B:AF:21:46:0F, 2013-12-10 10:10:11, 2013-12-10 15:21:38, -94,     1153, 20:C9:D0:24:DF:9B, Def6-N
+54:26:96:DA:62:13, 2013-12-10 09:55:47, 2013-12-10 15:21:39, -82,       49, (not associated) , calihorn,CSINY,COURTSTREETGROCERS,GORILLA WiFi,BPLUNWIRED,newschoolnet.,newschoolnet ,BAKED,TransD's Wi-Fi Network
+E0:F8:47:33:8A:10, 2013-12-10 00:31:32, 2013-12-10 15:21:47, -70,       75, D8:C7:C8:A9:ED:A0, newschool
+0C:3E:9F:2C:0F:DD, 2013-12-10 11:31:35, 2013-12-10 15:22:09, -92,      736, D8:C7:C8:A9:ED:A1, newschoolnet 
+6C:C2:6B:57:9F:E1, 2013-12-10 10:55:24, 2013-12-10 15:22:19, -90,    14092, D8:C7:C8:A9:ED:A0, newschool,newschoolnet ,__D12__1nt3rn3t__
+B8:17:C2:11:6D:6C, 2013-12-10 00:13:22, 2013-12-10 15:22:28, -92,     2749, D8:C7:C8:A9:ED:A0, newschool,newschoolnet 
+1C:E6:2B:19:28:DF, 2013-12-10 00:11:04, 2013-12-10 15:22:39, -78,      160, (not associated) ,
+6C:71:D9:59:AD:21, 2013-12-10 13:52:14, 2013-12-10 15:22:46, -96,      137, 00:18:0A:35:2A:B6,
+B8:76:3F:83:43:67, 2013-12-10 09:13:05, 2013-12-10 15:23:05, -92,       24, (not associated) ,
+20:C9:D0:48:8A:8D, 2013-12-10 00:39:23, 2013-12-10 15:23:19, -90,      209, D8:C7:C8:A9:ED:A1, TheBellagio,Wi-Fi Guys,SciPlay,Harley,WMN_AP,Fernandez,ClydeWaves,Employee,AndroidNet,Connecticut Muffin
+40:0E:85:2B:5F:8A, 2013-12-10 12:51:32, 2013-12-10 15:23:17, -78,      106, D8:C7:C8:A9:ED:A9, newschoolnet 
+E0:C9:7A:32:2B:43, 2013-12-10 13:07:30, 2013-12-10 15:23:28, -90,        2, (not associated) ,
+00:26:08:EA:64:CE, 2013-12-10 13:53:53, 2013-12-10 15:24:06, -90,       28, D8:C7:C8:A9:ED:A4, eduroam
+34:C0:59:79:39:A2, 2013-12-10 12:17:11, 2013-12-10 15:24:07, -76,       70, (not associated) ,
+E0:F8:47:F0:00:51, 2013-12-10 14:26:28, 2013-12-10 15:24:16, -82,       58, D8:C7:C8:A9:ED:A0, newschool
+98:B8:E3:AD:85:D1, 2013-12-10 11:05:48, 2013-12-10 15:24:28, -90,       73, (not associated) , newschool
+3C:E0:72:95:42:3E, 2013-12-10 15:13:32, 2013-12-10 15:24:38, -90,       32, (not associated) , Martial_Arts_Up
+90:18:7C:0C:F6:E4, 2013-12-10 08:34:04, 2013-12-10 15:24:39, -86,     1712, 20:C9:D0:29:11:3B, Def6-N
+90:21:55:C3:1E:BB, 2013-12-10 08:20:08, 2013-12-10 15:24:38, -82,    19806, D8:C7:C8:A9:ED:A1, newschoolnet 
+00:26:C6:41:8B:40, 2013-12-10 00:10:45, 2013-12-10 15:24:47, -92,     4942, 20:C9:D0:29:11:3B, Def6-N
+14:7D:C5:7F:65:C1, 2013-12-10 08:49:30, 2013-12-10 15:24:48, -84,      257, (not associated) ,
+20:C9:D0:85:50:E3, 2013-12-10 12:03:40, 2013-12-10 15:24:59, -70,      120, D8:C7:C8:A9:ED:A1, .FREEWiFiGOWEX,Eyebeam,metmuseumpublic,newschoolnet ,Aroma Espresso Bar,TCWiFi,GTSWIFI,THE HIGH LINE HOTEL GUEST,belkin.ffa,Holiday Inn University
+BC:52:B7:41:75:4B, 2013-12-10 03:54:47, 2013-12-10 15:25:18, -82,     2937, D8:C7:C8:A9:ED:A0, newschool
+88:53:2E:30:FF:C0, 2013-12-10 15:07:57, 2013-12-10 15:27:38, -92,       15, (not associated) , newschoolnet 
+B8:E8:56:42:24:66, 2013-12-10 11:50:35, 2013-12-10 15:25:18, -78,      120, (not associated) , newschoolnet.,Voices UnBroken,newschoolnet ,jpda5ghz,Kittynet 5Ghz
+BC:CF:CC:48:AF:9F, 2013-12-10 09:04:11, 2013-12-10 15:25:26, -92,        9, (not associated) , Def6-N
+00:26:C6:41:BE:F8, 2013-12-10 08:50:00, 2013-12-10 15:25:38, -74,      438, (not associated) ,
+E0:F8:47:31:03:4C, 2013-12-10 15:12:27, 2013-12-10 15:25:49, -72,       29, D8:C7:C8:A9:ED:A1, newschoolnet 
+EC:35:86:6D:C4:CE, 2013-12-10 00:43:01, 2013-12-10 15:25:59, -80,     1476, D8:C7:C8:A9:ED:A1, newschoolnet 
+28:6A:BA:7D:E0:FC, 2013-12-10 14:15:42, 2013-12-10 15:26:05, -86,       74, (not associated) , newschool-guest
+20:16:D8:4E:4D:EF, 2013-12-10 09:20:00, 2013-12-10 15:26:05, -86,      244, (not associated) ,
+30:F7:C5:6C:E3:28, 2013-12-10 09:44:11, 2013-12-10 15:26:18, -92,     3603, 20:C9:D0:24:DF:9B, Def6-N
+04:DB:56:26:24:59, 2013-12-10 13:59:06, 2013-12-10 15:26:28, -86,     2049, 20:C9:D0:24:DF:9B, Def6-N
+38:AA:3C:B9:F8:3B, 2013-12-10 11:47:14, 2013-12-10 15:26:27, -78,     6956, D8:C7:C8:A9:ED:A1, newschoolnet 
+20:C9:D0:48:7F:BB, 2013-12-10 12:35:52, 2013-12-10 15:26:29, -72,      105, (not associated) , Apple Store,ModeGuestNetwork,Harry's Network,Ad-hoc_Survival,DDGuestWifi,newschool,martelfab's Network,QM,VictoriasSecret,belkin.548
+14:8F:C6:3F:25:FD, 2013-12-10 12:17:03, 2013-12-10 15:27:33, -127,      458, D8:C7:C8:A9:ED:A1, newschoolnet 
+C0:9F:42:AE:05:F2, 2013-12-10 10:25:54, 2013-12-10 15:27:30, -127,     9126, 20:C9:D0:29:11:3B, Def6-N
+F0:B4:79:84:FE:BE, 2013-12-10 15:26:24, 2013-12-10 15:27:39, -127,      234, D8:C7:C8:A9:ED:A2, Free WiFi_Google Play,newschool-guest
+8C:58:77:6B:D0:06, 2013-12-10 09:10:27, 2013-12-10 15:27:11, -127,     3187, D8:C7:C8:A9:ED:A0, newschool
+78:E4:00:38:AD:6F, 2013-12-10 08:51:39, 2013-12-10 15:26:43, -98,      201, (not associated) , Def6-N
+24:77:03:D4:3E:30, 2013-12-10 09:23:02, 2013-12-10 15:26:43, -96,      570, 02:20:A6:F0:AF:0A,
+00:1F:3B:8A:D5:89, 2013-12-10 11:24:09, 2013-12-10 15:27:26, -94,        2, (not associated) ,
+00:21:5C:25:EB:F5, 2013-12-10 00:13:28, 2013-12-10 15:27:29, -92,      247, (not associated) , SandysNet2
+08:11:96:AA:05:70, 2013-12-10 10:06:53, 2013-12-10 15:26:56, -92,     2581, 02:20:A6:F0:AF:0A,
+E4:8B:7F:64:CD:E3, 2013-12-10 12:00:16, 2013-12-10 15:26:53, -92,       50, (not associated) , AIRPORT,guest
+04:F7:E4:1E:13:D5, 2013-12-10 09:46:29, 2013-12-10 15:27:36, -92,     4405, 20:C9:D0:29:11:3B, Def6-N
+00:22:FA:C2:E9:1A, 2013-12-10 00:11:03, 2013-12-10 15:27:35, -82,      996, (not associated) , Def6-N
+5C:A3:9D:17:DD:7C, 2013-12-10 00:09:35, 2013-12-10 15:27:36, -86,     5472, (not associated) ,
+10:68:3F:3F:27:3B, 2013-12-10 08:49:27, 2013-12-10 15:27:23, -90,      227, (not associated) ,
+CC:78:5F:3C:7B:19, 2013-12-10 15:17:42, 2013-12-10 15:27:16, -90,        2, (not associated) ,
+10:9A:DD:D7:93:6E, 2013-12-10 10:34:21, 2013-12-10 15:27:14, -90,       11, (not associated) ,
+E4:92:FB:83:7C:45, 2013-12-10 12:30:12, 2013-12-10 15:27:28, -90,      922, 20:C9:D0:24:DF:9B, Def6-N
+BC:77:37:4E:68:A8, 2013-12-10 00:11:02, 2013-12-10 15:27:38, -88,    27992, 20:C9:D0:24:DF:9B, Def6-N
+24:77:03:3D:B3:A8, 2013-12-10 11:10:13, 2013-12-10 15:27:32, -90,      839, 02:20:A6:F0:AF:0A,
+20:C9:D0:DD:CA:39, 2013-12-10 08:30:41, 2013-12-10 15:27:37, -90,    12947, C8:F9:F9:28:2A:80, AppleWiFi
+4C:EB:42:14:5B:68, 2013-12-10 11:39:28, 2013-12-10 15:27:21, -88,       97, (not associated) , ARKOFFICE
+00:25:56:69:EA:A0, 2013-12-10 11:39:13, 2013-12-10 15:27:02, -88,      101, D8:C7:C8:A9:ED:A1, newschoolnet 
+BC:77:37:52:12:00, 2013-12-10 09:01:58, 2013-12-10 15:26:52, -88,      147, (not associated) , Def6-N
+68:A3:C4:37:21:9D, 2013-12-10 00:17:45, 2013-12-10 15:27:36, -86,      510, (not associated) , D6conf
+E0:C9:7A:0C:9A:F5, 2013-12-10 08:51:50, 2013-12-10 15:27:29, -88,     2852, 20:C9:D0:29:11:3B, Def6-N
+00:1F:3C:27:B7:DD, 2013-12-10 09:36:05, 2013-12-10 15:27:02, -88,      153, (not associated) ,
+F8:27:93:3F:23:02, 2013-12-10 14:29:04, 2013-12-10 15:27:19, -88,       12, (not associated) , 59Hemenway2,newschoolnet ,TCguestnet
+4C:E6:76:BB:4D:B8, 2013-12-10 00:11:11, 2013-12-10 15:27:33, -86,     4642, (not associated) , Def6-G
+08:11:96:AA:02:98, 2013-12-10 11:13:55, 2013-12-10 15:27:12, -86,     1277, 02:20:A6:F0:AF:0A, AdaCorePublic
+00:22:FA:D2:0D:86, 2013-12-10 09:29:55, 2013-12-10 15:26:55, -86,      132, (not associated) ,
+E4:8B:7F:F2:76:FF, 2013-12-10 15:23:12, 2013-12-10 15:27:39, -86,      337, D8:C7:C8:A9:ED:A0, newschool
+54:26:96:D9:DF:99, 2013-12-10 13:34:07, 2013-12-10 15:26:45, -86,       51, (not associated) , DI2R0,belkin.7e6
+08:70:45:79:58:9B, 2013-12-10 00:16:16, 2013-12-10 15:26:42, -86,      113, (not associated) ,
+58:94:6B:9A:5E:18, 2013-12-10 15:22:40, 2013-12-10 15:26:40, -86,        2, (not associated) ,
+9C:B7:0D:CD:7B:BD, 2013-12-10 09:38:28, 2013-12-10 15:27:38, -88,   443365, D8:C7:C8:A9:ED:A1, newschoolnet 
+EC:85:2F:3C:85:88, 2013-12-10 09:20:26, 2013-12-10 15:27:26, -84,      382, 20:C9:D0:29:11:3B, Def6-N
+E0:C9:7A:65:5A:B0, 2013-12-10 15:15:40, 2013-12-10 15:26:57, -84,       53, (not associated) ,
+20:02:AF:68:2E:EC, 2013-12-10 09:29:47, 2013-12-10 15:26:44, -84,      235, (not associated) ,
+E0:F5:C6:65:12:DF, 2013-12-10 09:20:54, 2013-12-10 15:27:22, -84,      725, (not associated) ,
+BC:F5:AC:DF:FF:3B, 2013-12-10 00:11:19, 2013-12-10 15:26:44, -84,      835, (not associated) ,
+68:09:27:35:59:6E, 2013-12-10 10:55:59, 2013-12-10 15:26:59, -84,      221, (not associated) ,
+00:1F:3C:4D:E9:5B, 2013-12-10 11:38:06, 2013-12-10 15:27:12, -84,      228, (not associated) ,
+0C:74:C2:5C:CC:C6, 2013-12-10 14:05:54, 2013-12-10 15:27:15, -84,      921, D8:C7:C8:A9:ED:A1, Boingo Hotspot, Sephora Free WiFi,OurWifi,CarlosLobo CLIENT,School of Fish,JeanPaul,THE WAREHOUSE CAFE,MielPatisserie,newschoolnet,123
+B8:E8:56:23:61:D4, 2013-12-10 15:20:17, 2013-12-10 15:27:33, -84,       40, (not associated) , NYKidsClubBH,______,Kid City Hotspot,NYKCTribeca,newschoolnet.,__D12__1nt3rn3t__,NGSHP,yolandas salon,NETGEAR11,linksys
+E0:C9:7A:7E:36:8A, 2013-12-10 14:50:57, 2013-12-10 15:27:15, -82,     1636, D8:C7:C8:A9:ED:A0, newschool
+68:9C:70:DF:DA:46, 2013-12-10 09:36:10, 2013-12-10 15:27:05, -82,     2058, 20:C9:D0:24:DF:9B, Def6-N
+34:23:BA:1A:82:6B, 2013-12-10 15:08:23, 2013-12-10 15:27:32, -82,      139, D8:C7:C8:A9:ED:A1, newschoolnet 
+90:72:40:91:44:25, 2013-12-10 00:26:52, 2013-12-10 15:27:40, -82,    14796, D8:C7:C8:A9:ED:A1, newschoolnet 
+DC:9B:9C:39:BB:BC, 2013-12-10 14:08:00, 2013-12-10 15:27:29, -80,       59, D8:C7:C8:A9:ED:A1, newschoolnet 
+14:10:9F:E7:87:C4, 2013-12-10 12:24:45, 2013-12-10 15:27:23, -80,       25, D8:C7:C8:A9:ED:A0, The Interweb 2.0,Griffis,newschool
+A4:D1:D2:B4:8B:20, 2013-12-10 11:34:45, 2013-12-10 15:27:29, -80,       75, D8:C7:C8:A9:ED:A0, newschool
+00:24:B2:F4:CB:4D, 2013-12-10 00:11:52, 2013-12-10 15:26:58, -80,     1348, (not associated) , CBaudio
+94:44:44:05:A0:9A, 2013-12-10 08:58:39, 2013-12-10 15:27:38, -74,     2973, (not associated) , newschoolnet
+50:EA:D6:D8:12:F7, 2013-12-10 09:40:21, 2013-12-10 15:27:27, -78,      181, (not associated) ,
+A0:0B:BA:C9:32:E9, 2013-12-10 15:25:19, 2013-12-10 15:27:29, -78,       52, D8:C7:C8:A9:ED:A1, newschoolnet 
+B8:78:2E:8B:26:23, 2013-12-10 12:01:47, 2013-12-10 15:27:19, -78,      546, D8:C7:C8:A9:ED:A0, newschool
+8C:58:77:D3:DD:9D, 2013-12-10 14:17:51, 2013-12-10 15:26:46, -78,       62, (not associated) ,
+E4:8B:7F:DE:E7:D1, 2013-12-10 13:03:54, 2013-12-10 15:27:35, -78,       52, (not associated) , VictoriasSecret
+00:26:BB:0D:08:1A, 2013-12-10 12:41:11, 2013-12-10 15:27:12, -76,     1120, D8:C7:C8:A9:ED:A0, newschoolnet 
+88:CB:87:B5:A8:22, 2013-12-10 00:11:01, 2013-12-10 15:27:05, -76,      199, (not associated) , newschoolnet 
+98:B8:E3:74:CD:FE, 2013-12-10 10:23:37, 2013-12-10 15:26:51, -76,     4419, 20:C9:D0:29:11:3B, Def6-N
+C8:E0:EB:98:25:1B, 2013-12-10 13:33:14, 2013-12-10 15:26:55, -76,      213, (not associated) ,
+70:11:24:EA:F8:AE, 2013-12-10 12:31:01, 2013-12-10 15:27:14, -76,      383, (not associated) ,
+DC:86:D8:96:38:18, 2013-12-10 14:52:23, 2013-12-10 15:27:36, -74,      123, (not associated) ,
+02:05:ED:77:51:09, 2013-12-10 14:12:31, 2013-12-10 15:27:15, -74,       82, (not associated) , newschoolnet ,VictoriasSecret
+4C:8D:79:D3:67:92, 2013-12-10 10:55:32, 2013-12-10 15:26:39, -74,      169, D8:C7:C8:A9:ED:A1, newschoolnet 
+10:9A:DD:B7:70:0A, 2013-12-10 09:20:22, 2013-12-10 15:27:34, -74,      360, D8:C7:C8:A9:ED:A1, hyper,AMT_MC_D1208_01,newschoolnet.,newschoolnet 
+08:ED:B9:4D:E3:F7, 2013-12-10 00:10:55, 2013-12-10 15:26:58, -74,     2231, (not associated) ,
+F4:1B:A1:EA:65:D0, 2013-12-10 03:12:49, 2013-12-10 15:27:22, -74,      703, D8:C7:C8:A9:ED:A1, newschoolnet 
+AC:72:89:0D:EF:44, 2013-12-10 14:58:54, 2013-12-10 15:27:29, -74,       61, D8:C7:C8:A9:ED:A1, Bomb&Candy,newschoolnet 
+78:92:9C:A9:03:3C, 2013-12-10 12:19:17, 2013-12-10 15:27:37, -127,    53822, D8:C7:C8:A9:ED:A1, VictoriasSecret,newschoolnet 
+10:93:E9:5E:74:F2, 2013-12-10 00:09:37, 2013-12-10 15:27:11, -72,    14816, D8:C7:C8:A9:ED:A1, concourse,belkin.272,2WIRE633,IND_PUBLIC_WiFi,potato,VictoriasSecret,newschoolnet,Sony-Music-WIFI,FoxFi90,2WIRE625
+90:72:40:96:97:DC, 2013-12-10 13:59:33, 2013-12-10 15:27:04, -72,       56, (not associated) ,
+F8:1E:DF:48:A1:23, 2013-12-10 14:44:17, 2013-12-10 15:27:29, -70,      137, (not associated) , .FREEWiFiGOWEX,malex,Malex,dlink
+C4:17:FE:07:82:F4, 2013-12-10 00:12:52, 2013-12-10 15:26:39, -70,     6056, 20:C9:D0:24:DF:9B, Def6-N
+10:40:F3:8C:9B:EC, 2013-12-10 12:20:02, 2013-12-10 15:27:30, -70,   102084, D8:C7:C8:A9:ED:A1, SUNBURST 5,BTOpenzone-Starbucks,newschoolnet 
+34:C0:59:8C:EB:93, 2013-12-10 00:19:08, 2013-12-10 15:27:09, -68,    26322, 44:33:4C:6C:1A:64, __D12__1nt3rn3t__,newschoolnet 
+F8:1E:DF:E0:E2:0E, 2013-12-10 00:55:38, 2013-12-10 15:27:37, -68,    28173, 44:33:4C:6C:1A:64, newschool-guest,knewton-guest,3diaosinonrooseveltisland--guest,newschoolnet.,xiandan1,xiandan2,NYPL,ChinaUnicom,Katsutaro-Guest,ACL Apple Network
+00:26:08:E5:53:0A, 2013-12-10 03:23:15, 2013-12-10 15:27:19, -66,       97, D8:C7:C8:A9:ED:A0, newschool,wahoo,Linksys,BHIWireless,Catalina Point,Shag,cavalier,Tropicana,NETGEAR-2.4-G,Rain_Man_featuring_I_Am_Sam
+64:80:99:50:7C:0C, 2013-12-10 09:01:17, 2013-12-10 15:26:57, -66,    10163, 00:25:9C:67:47:75, Myhome,linksys,newschoolnet 
+CC:08:E0:C7:8D:48, 2013-12-10 15:06:02, 2013-12-10 15:26:35, -66,       19, (not associated) ,
+B0:65:BD:CB:68:E3, 2013-12-10 12:30:07, 2013-12-10 15:27:11, -66,      287, D8:C7:C8:A9:ED:A1, newschoolnet 
+A4:67:06:4A:A6:3B, 2013-12-10 14:36:02, 2013-12-10 15:27:30, -64,       26, (not associated) , VictoriasSecret
+54:E4:3A:CF:A5:C5, 2013-12-10 12:31:53, 2013-12-10 15:26:58, -64,       92, (not associated) ,
+12:34:56:1B:08:B5, 2013-12-10 12:20:45, 2013-12-10 15:26:54, -64,       96, (not associated) ,
+34:C0:59:4C:7E:80, 2013-12-10 15:27:07, 2013-12-10 15:27:07, -64,        1, (not associated) ,
+70:D4:F2:6B:42:1B, 2013-12-10 14:07:29, 2013-12-10 15:26:52, -62,      141, (not associated) , DEBMOBILE
+B8:C7:5D:EB:5A:55, 2013-12-10 00:10:58, 2013-12-10 15:26:41, -56,       83, (not associated) , dlink,newschool
+
